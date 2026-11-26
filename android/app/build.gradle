@@ -1,0 +1,47 @@
+plugins { id 'com.android.application' }
+
+def signingFile = rootProject.file('signing.properties')
+def signingValues = new Properties()
+if (signingFile.exists()) signingFile.withInputStream { signingValues.load(it) }
+
+android {
+    buildFeatures { buildConfig true }
+    namespace 'com.smandalo.starport'
+    compileSdk 36
+    buildToolsVersion '36.0.0'
+    defaultConfig {
+        applicationId 'com.smandalo.starport'
+        minSdk 29
+        targetSdk 36
+        versionCode 600
+        versionName '0.6.0'
+        testInstrumentationRunner 'com.smandalo.starport.SmokeInstrumentation'
+    }
+    signingConfigs {
+        release {
+            if (signingFile.exists()) {
+                storeFile rootProject.file(signingValues['storeFile'])
+                storePassword signingValues['storePassword']
+                keyAlias signingValues['keyAlias']
+                keyPassword signingValues['keyPassword']
+            }
+        }
+    }
+    buildTypes {
+        debug { applicationIdSuffix '.debug'; versionNameSuffix '-debug' }
+        release {
+            if (signingFile.exists()) signingConfig signingConfigs.release
+            minifyEnabled false
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    androidResources { noCompress += ['png', 'webp', 'jpg', 'xlsx'] }
+}
+
+dependencies {
+    implementation 'androidx.webkit:webkit:1.14.0'
+    implementation 'androidx.core:core:1.15.0'
+}

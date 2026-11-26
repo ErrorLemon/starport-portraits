@@ -1,0 +1,23 @@
+.DS_Store
+__pycache__/
+*.pyc
+.gradle/
+**/build/
+local.properties
+signing.properties
+**/signing/
+*.jks
+*.keystore
+.env
+.env.*
+dist/
+*.apk
+*.zip
+*.fleetproject.json
+*.fleetlib.json
+*.nameplate.json
+
+# Rebuilt losslessly from source metadata and original images
+/web/data/library.js
+/web/data/nameplate-backgrounds.js
+/android/app/src/main/assets/www/

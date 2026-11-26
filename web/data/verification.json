@@ -1,0 +1,249 @@
+{
+  "date": "2026-10-22",
+  "library_version": "0.3.0",
+  "data_checks": {
+    "unique_models": 248,
+    "decoded_images": 494,
+    "images_with_real_alpha": 494,
+    "sha256_verified": 494,
+    "length_relations_verified": 494,
+    "sqlite_integrity": "ok",
+    "sqlite_foreign_keys": "ok",
+    "json_and_sqlite_counts_match": true
+  },
+  "official_calibration": {
+    "official_id_matches": 245,
+    "detail_lengths": 245,
+    "official_conflict_models": 178,
+    "top_official_length_bound": 244,
+    "top_pose_warnings": 37
+  },
+  "community_names": {
+    "records": 248,
+    "localization": 245,
+    "wiki": 3
+  },
+  "excel_tests": [
+    "Supplied workbook: 3 sheets, 147 member rows, 19 members with ships, 81 ship cells",
+    "Malformed exported range repaired using actual cell addresses",
+    "Repeated ship cells count as multiple vessels",
+    "Same Chinese nickname with different usernames stays distinct",
+    "Ambiguous names require explicit choice or skip",
+    "Wide ship1...ship21 and long quantity formats",
+    "Atomic append/replace, duplicate import guard, project backup includes mappings",
+    "Formulas/macros not executed; no upload or runtime network"
+  ],
+  "logic_tests": [
+    "Uniform 2:1 relation on both image axes",
+    "Manual two-point reference",
+    "Missing dimension rejection",
+    "1/15/80/200 vessel placement without collisions or overflow (dense case uses font 12, gap 8)",
+    "Locked position retained",
+    "v0.1 migration preserves names, manual sizes, custom data",
+    "Production UI JS in local DOM harness with native Canvas",
+    "Official source switching and two-point measurement",
+    "Member add/edit and quantity updates",
+    "15 vessel example and actual 3840x2160 PNG",
+    "Embedded library and full project restore",
+    "Quoted CSV import and atomic rejection",
+    "Missing-image disclosure",
+    "Angled perspective approximation labels",
+    "Invalid project, remote image and negative quantity rejection"
+  ],
+  "visual_samples": [
+    "示例全家福-俯视.png",
+    "示例全家福-4K.png",
+    "示例全家福-斜视.png",
+    "示例全家福-Logo与署名.png",
+    "示例全家福-紧凑型.png",
+    "示例个人名牌.png",
+    "示例个人名牌-自定义.png",
+    "示例全家福-自定义标题.png",
+    "示例全家福-居中清爽.png",
+    "示例个人名牌-清爽.png",
+    "示例全家福-自定义标题.png",
+    "示例全家福-居中清爽.png",
+    "示例个人名牌-清爽.png"
+  ],
+  "standalone_checks": [
+    "No external scripts or stylesheets",
+    "All images embedded",
+    "Script syntax checked",
+    "CSP connect-src none"
+  ],
+  "not_verified": [
+    "Actual file:// browser UI rendering: automation disallows file protocol",
+    "Every vessel model identity, pose, edge quality and variant texture",
+    "Full 3D projection / geometry calibration"
+  ],
+  "excel_compatibility": {
+    "worksheets": 3,
+    "member_rows": 147,
+    "members_with_ships": 19,
+    "ship_cells": 81,
+    "empty_ship_rows": 128,
+    "normalized_name_groups": 50,
+    "resolved_name_groups": 37,
+    "pending_name_groups": 13,
+    "resolved_vessels": 65,
+    "pending_vessels": 16
+  },
+  "standard_template": {
+    "version": "1.0",
+    "app_version": "0.3.1",
+    "blank_rows": 500,
+    "unique_dropdown_options": 248,
+    "all_options_match_unique_model_ids": true,
+    "native_validation": "list + whole 1..50, stop alerts; frozen header + identity columns",
+    "native_app_validation_tested": false
+  },
+  "app_version": "0.5.1",
+  "logo_and_attribution": {
+    "header_position": "Logo left of custom title and subtitle",
+    "preserve_aspect_ratio": true,
+    "tested_shapes": [
+      "square",
+      "wide",
+      "tall"
+    ],
+    "formats": [
+      "PNG",
+      "WebP",
+      "JPEG"
+    ],
+    "fixed_footer": "开发：斯曼达洛舰队-Lemon_ACE",
+    "export_dimensions": [
+      3840,
+      2160
+    ],
+    "checks": [
+      "upload and replace",
+      "remove restores title position",
+      "no ship position changes",
+      "embedded project backup and restore",
+      "5 MB upload limit",
+      "corrupt logo blocks export",
+      "fixed attribution with or without logo",
+      "actual localhost browser upload and UI rendering; no console errors"
+    ],
+    "sample": "示例全家福-Logo与署名.png",
+    "sample_note": "SC is a generated test emblem, not an actual fleet logo",
+    "not_verified": [
+      "System download dialog and file-protocol browser behavior"
+    ]
+  },
+  "nameplate": {
+    "canvas": [
+      1600,
+      600
+    ],
+    "export": [
+      3200,
+      1200
+    ],
+    "built_in_backgrounds": 3,
+    "background_bytes_and_sha256_verified": true,
+    "fixed_footer": "开发：斯曼达洛舰队-Lemon_ACE",
+    "checks": [
+      "Chinese/English/alias search and ship views",
+      "custom background and logo upload, replacement and removal",
+      "background shade and focal point, font, size and accent controls",
+      "embedded image settings backup and full project restore",
+      "missing or corrupt image blocks export",
+      "remote image settings rejected",
+      "actual localhost browser logo upload and visible background",
+      "actual browser refresh restores saved name and background",
+      "actual browser PNG download; decoded 3200x1200"
+    ],
+    "sample_logo_note": "SC is a generated test emblem, not the user fleet logo"
+  },
+  "compact_layout": {
+    "checks": [
+      "0/1/15/80/200 vessels",
+      "6/18/40 px member fonts and up to 28 px model fonts",
+      "zero gap, no collisions or overflow",
+      "same physical scale on both axes",
+      "smaller ship occupies an interior gap bounded by four locked larger ships",
+      "locked positions preserved",
+      "hidden model labels release occupied space",
+      "201 vessels rejected",
+      "actual browser layout selector and numeric font controls"
+    ],
+    "limitation": "Uses ship and label rectangular bounds, not transparent silhouette concavities"
+  },
+  "app_name": "星港合影 / Starport Portraits",
+  "header_positioning": {
+    "modes": [
+      "left",
+      "center",
+      "right",
+      "custom"
+    ],
+    "group": [
+      "title",
+      "subtitle",
+      "logo"
+    ],
+    "coordinates": "2400x1350 canvas pixels, group top-left, clamped to bounds",
+    "checks": [
+      "measured center and right alignment",
+      "logo aspect ratio and spacing",
+      "custom title obstacle in radial and compact layouts",
+      "invalid coordinate rejection",
+      "project backup and old-project defaults",
+      "actual localhost browser alignment, numeric coordinates and visible title movement"
+    ]
+  },
+  "explanation_visibility": {
+    "independent_fleet_and_nameplate": true,
+    "retained": [
+      "user entered text",
+      "logo",
+      "ship images",
+      "fixed developer credit"
+    ],
+    "hidden": [
+      "automatic model labels",
+      "length",
+      "view",
+      "scale",
+      "source",
+      "counts",
+      "section labels"
+    ],
+    "checks": [
+      "rendered PNG text whitelist for both exports",
+      "backup and restore in project and nameplate JSON",
+      "old backups default to visible",
+      "actual browser toggle and canvas preview; no console errors",
+      "Each of 14 categories independently excluded from actual canvas PNG text",
+      "Other categories and user text remain visible",
+      "Model/length and length/view line parts are independent",
+      "Per-category backup settings and legacy all-hidden migration",
+      "Actual browser unchecks length and source while retaining ship names and view"
+    ],
+    "note": "Editor help and errors remain visible outside the exported canvas",
+    "fleet_categories": [
+      "brand",
+      "counts",
+      "model",
+      "length",
+      "scale",
+      "view",
+      "source"
+    ],
+    "nameplate_categories": [
+      "section",
+      "modelZh",
+      "modelEn",
+      "manufacturer",
+      "length",
+      "view",
+      "source"
+    ],
+    "bulk_controls": [
+      "show all",
+      "hide all"
+    ]
+  }
+}

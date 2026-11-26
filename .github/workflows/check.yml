@@ -1,0 +1,58 @@
+name: Check and build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: check-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-java@v5
+        with:
+          distribution: temurin
+          java-version: '17'
+          cache: gradle
+          cache-dependency-path: android/**/*.gradle
+      - name: Validate source and fleet layout
+        run: |
+          python3 scripts/prepare_assets.py
+          python3 scripts/check_repo.py
+          node tests/test_compact_v04.cjs
+          node tests/test_excel_errors.cjs
+          node tests/test_standard_template.cjs
+      - name: Check generated asset manifest
+        run: |
+          git diff --exit-code -- android/asset-report.json
+      - name: Set up Android command line tools
+        uses: android-actions/setup-android@v4
+        with:
+          cmdline-tools-version: '12266719'
+      - name: Install Android SDK components
+        run: sdkmanager 'platforms;android-36' 'build-tools;36.0.0'
+      - name: Build debug APK and run Android lint
+        working-directory: android
+        run: bash gradlew --no-daemon assembleDebug lintDebug
+      - name: Package offline web edition
+        run: python3 scripts/package_release.py --web-only
+      - name: Save test downloads
+        uses: actions/upload-artifact@v4
+        with:
+          name: starport-test-downloads
+          path: |
+            android/app/build/outputs/apk/debug/app-debug.apk
+            dist/*-web-offline.zip
+          retention-days: 7
+          if-no-files-found: error
