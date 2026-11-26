@@ -68,6 +68,10 @@ jobs:
           node tests/test_excel_errors.cjs
           node tests/test_standard_template.cjs
           git diff --exit-code -- android/asset-report.json
+      - name: Set up Android command line tools
+        uses: android-actions/setup-android@v4
+        with:
+          cmdline-tools-version: '12266719'
       - name: Install Android SDK components
         run: sdkmanager 'platforms;android-36' 'build-tools;36.0.0'
       - name: Restore original private signing
