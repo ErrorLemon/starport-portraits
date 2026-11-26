@@ -1,4 +1,16 @@
-# 星港合影 · Starport Portraits
+# Starport Portraits — Star Citizen Fleet Portrait & Nameplate Creator
+
+Starport Portraits is an offline tool for creating Star Citizen fleet portraits and personalized pilot nameplates. Available for Android and desktop browsers, it includes 248 ship models and 494 transparent ship images, with scaling based on official ship lengths.
+
+Import fleet lists from Excel, arrange ships in radial or compact layouts, customize titles, text, logos and backgrounds, and export images at up to 4K resolution. Your fleet data and projects stay on your device.
+
+[Download the Android APK and offline desktop edition](https://github.com/ErrorLemon/starport-portraits/releases/latest)
+
+An unofficial fan project. Star Citizen artwork and ship designs belong to their respective rights holders.
+
+---
+
+## 星港合影
 
 开发：斯曼达洛舰队-Lemon_ACE
 
