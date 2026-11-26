@@ -1,0 +1,79 @@
+name: Publish release
+
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Version matching release.json, e.g. v0.6.0'
+        required: true
+        type: string
+        default: v0.6.0
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-${{ github.event.inputs.tag || github.ref_name }}
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    env:
+      RELEASE_TAG: ${{ github.event.inputs.tag || github.ref_name }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - name: Check version and release target
+        run: |
+          set -euo pipefail
+          python3 scripts/package_release.py --check-only --tag "$RELEASE_TAG"
+          if [ "$GITHUB_EVENT_NAME" = workflow_dispatch ] && [ "$GITHUB_REF" != refs/heads/main ]; then
+            echo 'Run manual releases from main.' >&2
+            exit 1
+          fi
+          if git show-ref --verify --quiet "refs/tags/$RELEASE_TAG"; then
+            test "$(git rev-parse "refs/tags/$RELEASE_TAG^{commit}")" = "$GITHUB_SHA"
+          fi
+      - uses: actions/setup-java@v5
+        with:
+          distribution: temurin
+          java-version: '17'
+          cache: gradle
+          cache-dependency-path: android/**/*.gradle
+      - name: Validate source and imports
+        run: |
+          python3 scripts/check_repo.py
+          node tests/test_compact_v04.cjs
+          node tests/test_excel_errors.cjs
+          node tests/test_standard_template.cjs
+          python3 android/prepare_web.py web
+          git diff --exit-code -- android/app/src/main/assets/www android/asset-report.json
+      - name: Install Android SDK components
+        run: sdkmanager 'platforms;android-36' 'build-tools;36.0.0'
+      - name: Restore original private signing
+        env:
+          ANDROID_SIGNING_BUNDLE_BASE64: ${{ secrets.ANDROID_SIGNING_BUNDLE_BASE64 }}
+        run: python3 scripts/restore_signing.py
+      - name: Build signed APK and check Android lint
+        working-directory: android
+        run: bash gradlew --no-daemon assembleRelease lintRelease
+      - name: Verify signature and package downloads
+        run: python3 scripts/package_release.py --tag "$RELEASE_TAG"
+      - name: Publish downloadable release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$RELEASE_TAG" \
+            --repo "$GITHUB_REPOSITORY" \
+            --target "$GITHUB_SHA" \
+            --title "星港合影 $RELEASE_TAG" \
+            --notes-file dist/release-notes.md \
+            dist/*-android.apk dist/*-web-offline.zip dist/SHA256SUMS.txt
+      - name: Remove private signing files
+        if: always()
+        run: rm -f android/signing.properties android/signing/starport-release.jks
