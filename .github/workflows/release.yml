@@ -2,6 +2,8 @@ name: Publish release
 
 on:
   push:
+    branches: [main]
+    paths: [release.json]
     tags: ['v*']
   workflow_dispatch:
     inputs:
@@ -13,9 +15,10 @@ on:
 
 permissions:
   contents: write
+  statuses: write
 
 concurrency:
-  group: release-${{ github.event.inputs.tag || github.ref_name }}
+  group: starport-release
   cancel-in-progress: false
 
 jobs:
@@ -23,15 +26,27 @@ jobs:
     runs-on: ubuntu-24.04
     timeout-minutes: 30
     env:
-      RELEASE_TAG: ${{ github.event.inputs.tag || github.ref_name }}
+      RELEASE_TAG: ${{ github.event.inputs.tag || (github.ref_type == 'tag' && github.ref_name) || '' }}
     steps:
+      - name: Report release started
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api "repos/$GITHUB_REPOSITORY/statuses/$GITHUB_SHA" \
+            -f state=pending -f context='Starport release' \
+            -f description='Building signed APK and offline web package' \
+            -f target_url="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
       - uses: actions/checkout@v6
         with:
           fetch-depth: 0
       - name: Check version and release target
         run: |
           set -euo pipefail
+          if [ -z "$RELEASE_TAG" ]; then
+            RELEASE_TAG="$(python3 -c 'import json; print("v" + json.load(open("release.json"))["version"])')"
+          fi
           python3 scripts/package_release.py --check-only --tag "$RELEASE_TAG"
+          echo "RELEASE_TAG=$RELEASE_TAG" >> "$GITHUB_ENV"
           if [ "$GITHUB_EVENT_NAME" = workflow_dispatch ] && [ "$GITHUB_REF" != refs/heads/main ]; then
             echo 'Run manual releases from main.' >&2
             exit 1
@@ -47,12 +62,12 @@ jobs:
           cache-dependency-path: android/**/*.gradle
       - name: Validate source and imports
         run: |
+          python3 scripts/prepare_assets.py
           python3 scripts/check_repo.py
           node tests/test_compact_v04.cjs
           node tests/test_excel_errors.cjs
           node tests/test_standard_template.cjs
-          python3 android/prepare_web.py web
-          git diff --exit-code -- android/app/src/main/assets/www android/asset-report.json
+          git diff --exit-code -- android/asset-report.json
       - name: Install Android SDK components
         run: sdkmanager 'platforms;android-36' 'build-tools;36.0.0'
       - name: Restore original private signing
@@ -77,3 +92,15 @@ jobs:
       - name: Remove private signing files
         if: always()
         run: rm -f android/signing.properties android/signing/starport-release.jks
+      - name: Report release result
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_RESULT: ${{ job.status }}
+        run: |
+          state=failure
+          if [ "$RELEASE_RESULT" = success ]; then state=success; fi
+          gh api "repos/$GITHUB_REPOSITORY/statuses/$GITHUB_SHA" \
+            -f state="$state" -f context='Starport release' \
+            -f description="Release $RELEASE_RESULT" \
+            -f target_url="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"

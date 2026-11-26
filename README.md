@@ -25,23 +25,23 @@
 | `docs/舰队标准导入模板.xlsx` | 空白标准模板，供成员填写 |
 | `tests/` | 舰船比例、紧凑布局、Excel 解析和模板检查 |
 | `.github/workflows/check.yml` | 推送到 main 或提交 PR 后自动检查并生成测试版 |
-| `.github/workflows/release.yml` | 手动或版本标签触发正式发布 |
+| `.github/workflows/release.yml` | 更新版本文件、手动或版本标签触发正式发布 |
 
 修改电脑版后执行：
 
 ```sh
-python3 android/prepare_web.py web
+python3 scripts/prepare_assets.py
 python3 scripts/check_repo.py
 node tests/test_compact_v04.cjs
 node tests/test_excel_errors.cjs
 node tests/test_standard_template.cjs
 ```
 
-将同步后的 Android 资源一同提交。构建环境为 JDK 17、Android SDK 36、Build Tools 36.0.0，Gradle Wrapper 8.13。`android/gradlew` 已包含在源码中。首次配置构建依赖需要联网；安装后的软件运行不需要联网。
+网页版的内嵌图片脚本和 Android 打包资源由上述命令生成，不提交重复的生成文件。更换舰船图片或资料后提交原始文件和元数据即可。首次从源码构建 APK 前也要先运行该命令；CI 会自动运行。构建环境为 Python 3.11 及以上、JDK 17、Android SDK 36、Build Tools 36.0.0，Gradle Wrapper 8.13。`android/gradlew` 已包含在源码中。首次配置构建依赖需要联网；安装后的软件运行不需要联网。
 
 ## 自动发布
 
-首次设置见 [GitHub 发布配置](docs/发布配置.md)。之后可以在 **Actions → Publish release → Run workflow** 中填写版本号，一次运行完成签名 APK、网页版 ZIP、校验文件和 Releases 发布。也可以推送相同版本标签触发，例如 `v0.6.0`。
+首次设置见 [GitHub 发布配置](docs/发布配置.md)。更新 `release.json` 并推送到 main 后会自动构建、签名并发布对应版本。也可以在 **Actions → Publish release → Run workflow** 中填写版本号，一次运行完成签名 APK、网页版 ZIP、校验文件和 Releases 发布。也可以推送相同版本标签触发，例如 `v0.6.0`。
 
 每次新版本都需要同步修改 `release.json` 的 version、`android/app/build.gradle` 的 versionName，并增加 versionCode。不能用旧标签重复覆盖已发布版本。测试 APK 使用不同包名和调试签名，不能替代正式版的覆盖升级。
 

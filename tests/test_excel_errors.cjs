@@ -1,0 +1,10 @@
+const assert=require('node:assert/strict'),fs=require('node:fs');
+const X=require('../web/vendor/xlsx.full.min.js'),E=require('../web/excel-engine.js');
+const w=X.utils.book_new(),s=X.utils.aoa_to_sheet([['username','ship1'],['one','Carrack'],['two',''],['three','']]);
+s.B3={t:'n',f:'1+1'};s.B4={t:'e',v:7};s['!ref']='A1:B4';X.utils.book_append_sheet(w,s,'Test');
+const [read]=E.workbook(X,X.write(w,{type:'array',bookType:'xlsx'}));assert.equal(read.formulaWarnings.length,2);
+assert.equal(read.rows[1][1],'Carrack');assert.equal(read.rows[2][1],'');assert.equal(read.rows[3][1],'');
+const lib=JSON.parse(fs.readFileSync('web/data/library.json'));const duplicate=[{id:'a',name:'Same',name_zh:'同名',aliases:[]},{id:'b',name:'Same',name_zh:'同名',aliases:[]}];
+const a=E.analyze([['username','ship1'],['user','同名']],{header:0,member:0,nickname:-1,quantity:-1,ships:[1]},duplicate);assert.equal(a.groups[0].selected,'');assert.equal(a.groups[0].candidates.length,2);
+const large=X.utils.book_new(),big={'!ref':'A1:JW2',JW2:{t:'s',v:'test'}};X.utils.book_append_sheet(large,big,'big');assert.throws(()=>E.workbook(X,X.write(large,{type:'array',bookType:'xlsx'})),/256/);
+console.log('PASS: Excel error values and uncached formulas reported, ambiguous exact name blocked, column size limit enforced.');

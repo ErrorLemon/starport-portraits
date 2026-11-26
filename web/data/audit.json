@@ -1,0 +1,2803 @@
+{
+  "date": "2026-10-21",
+  "stats": {
+    "models": 248,
+    "spaceships": 214,
+    "ground_vehicles": 34,
+    "models_with_image": 247,
+    "colored_models": 105,
+    "clay_only_models": 142,
+    "assets": 494,
+    "transparent_assets": 494,
+    "asset_bytes": 28319538,
+    "wiki_dimension_matches": 220,
+    "dimension_conflicts": 111,
+    "calibrated_models": 0,
+    "shared_image_groups": 22
+  },
+  "checks": [
+    "API pagination totals and unique identifiers",
+    "image decode",
+    "actual alpha values",
+    "SHA-256",
+    "exact-match dimensions cross-check"
+  ],
+  "issues": [
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "orig-600i-executive-edition:angled",
+        "orig-600i-touring:angled"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "orig-600i-executive-edition:top",
+        "orig-600i-touring:top"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "rsi-aurora-mk-i-cl:angled",
+        "rsi-aurora-mk-i-es:angled",
+        "rsi-aurora-mk-i-ln:angled",
+        "rsi-aurora-mk-i-lx:angled",
+        "rsi-aurora-mk-i-mr:angled"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "rsi-aurora-mk-i-cl:top",
+        "rsi-aurora-mk-i-es:top",
+        "rsi-aurora-mk-i-ln:top",
+        "rsi-aurora-mk-i-lx:top",
+        "rsi-aurora-mk-i-mr:top"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "aegs-avenger-titan:angled",
+        "aegs-avenger-titan-renegade:angled",
+        "aegs-avenger-warlock:angled"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "aegs-avenger-titan:top",
+        "aegs-avenger-titan-renegade:top",
+        "aegs-avenger-warlock:top"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "anvl-c8-pisces:angled",
+        "anvl-c8r-pisces:angled"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "anvl-c8-pisces:top",
+        "anvl-c8r-pisces:top"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "drak-dragonfly-black:angled",
+        "drak-dragonfly-starkitten-edition:angled",
+        "drak-dragonfly-yellowjacket:angled"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "drak-dragonfly-black:top",
+        "drak-dragonfly-starkitten-edition:top",
+        "drak-dragonfly-yellowjacket:top"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "anvl-f7a-hornet-mk-i:angled",
+        "anvl-f7c-hornet-mk-i:angled"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "anvl-f7a-hornet-mk-i:top",
+        "anvl-f7c-hornet-mk-i:top"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "anvl-f7c-m-super-hornet-heartseeker-mk-i:angled",
+        "anvl-f7c-m-super-hornet-mk-i:angled"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "anvl-f7c-m-super-hornet-heartseeker-mk-i:top",
+        "anvl-f7c-m-super-hornet-mk-i:top"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "aegs-idris-m:angled",
+        "aegs-idris-p:angled"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "aegs-idris-m:top",
+        "aegs-idris-p:top"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "xnaa-nox:angled",
+        "xnaa-nox-kue:angled"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "xnaa-nox:top",
+        "xnaa-nox-kue:top"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "rsi-ursa:angled",
+        "rsi-ursa-fortuna:angled",
+        "rsi-ursa-medivac:angled"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "rsi-ursa:top",
+        "rsi-ursa-fortuna:top",
+        "rsi-ursa-medivac:top"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "rsi-zeus-mk-ii-cl:angled",
+        "rsi-zeus-mk-ii-es:angled"
+      ]
+    },
+    {
+      "issue": "source_image_shared_between_models",
+      "asset_ids": [
+        "rsi-zeus-mk-ii-cl:top",
+        "rsi-zeus-mk-ii-es:top"
+      ]
+    },
+    {
+      "ship_id": "rsi-apollo-medivac",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length"
+      ]
+    },
+    {
+      "ship_id": "rsi-apollo-triage",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length"
+      ]
+    },
+    {
+      "ship_id": "crus-ares-inferno",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "anvl-asgard",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "argo-atls",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "argo-atls-geo",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "argo-atls-ikti-akuma",
+      "issue": "no_image_at_source"
+    },
+    {
+      "ship_id": "argo-atls-ikti-akuma",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "rsi-aurora-mk-ii",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length"
+      ]
+    },
+    {
+      "ship_id": "rsi-aurora-mk-i-se",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "grey-basher",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "espr-blade",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width"
+      ]
+    },
+    {
+      "ship_id": "drak-caterpillar",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "drak-clipper",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "rsi-constellation-mk-iv-andromeda",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "rsi-constellation-mk-iv-aquila",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "rsi-constellation-mk-iv-phoenix",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "rsi-constellation-mk-iv-taurus",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "rsi-constellation-mk-v-centaurus",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "drak-corsair",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width"
+      ]
+    },
+    {
+      "ship_id": "argo-csv-sm",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "drak-cutlass-blue",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "drak-cutlass-red",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "drak-cutter-rambler",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width"
+      ]
+    },
+    {
+      "ship_id": "drak-cutter-scout",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width"
+      ]
+    },
+    {
+      "ship_id": "tmbl-cyclone",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "tmbl-cyclone-aa",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width"
+      ]
+    },
+    {
+      "ship_id": "tmbl-cyclone-mt",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "tmbl-cyclone-rc",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width"
+      ]
+    },
+    {
+      "ship_id": "tmbl-cyclone-rn",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width"
+      ]
+    },
+    {
+      "ship_id": "tmbl-cyclone-tr",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width"
+      ]
+    },
+    {
+      "ship_id": "drak-dragonfly-black",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "drak-dragonfly-yellowjacket",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "anvl-f7a-hornet-mk-i",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "anvl-f7c-hornet-mk-ii",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "anvl-f7c-m-super-hornet-mk-ii",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width"
+      ]
+    },
+    {
+      "ship_id": "anvl-f7c-r-hornet-tracker-mk-ii",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "anvl-f7c-s-hornet-ghost-mk-ii",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "anvl-f8c-lightning",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "anvl-f8c-lightning-executive-edition",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "misc-fortune",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "misc-freelancer",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "mrai-fury",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "mrai-fury-lx",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "mrai-fury-mx",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "espr-glaive",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "drak-golem-ox",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width"
+      ]
+    },
+    {
+      "ship_id": "mrai-guardian-mx",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width"
+      ]
+    },
+    {
+      "ship_id": "anvl-hawk",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "cnou-hoverquad",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "misc-hull-b",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "misc-hull-c",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "anvl-hurricane",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width"
+      ]
+    },
+    {
+      "ship_id": "aegs-idris-m",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "aegs-idris-p",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "drak-ironclad",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "drak-ironclad-assault",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "xnaa-khartu-al",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "orig-m80",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "grin-mdc",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "crus-mercury-star-runner",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "argo-mole",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "argo-mpuv-cargo",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "argo-mpuv-personnel",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "argo-mpuv-tractor",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "grin-mtc",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "drak-mule",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width"
+      ]
+    },
+    {
+      "ship_id": "tmbl-nova",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "xnaa-nox",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "xnaa-nox-kue",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "krig-p-52-merlin",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width"
+      ]
+    },
+    {
+      "ship_id": "krig-p-72-archimedes",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width"
+      ]
+    },
+    {
+      "ship_id": "anvl-paladin",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "rsi-perseus",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "drak-pitbull",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length"
+      ]
+    },
+    {
+      "ship_id": "rsi-polaris",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "misc-prospector",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "grin-ptv",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width"
+      ]
+    },
+    {
+      "ship_id": "mrai-pulse",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "mrai-pulse-lx",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "gama-railen",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "misc-reliant-kore",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width"
+      ]
+    },
+    {
+      "ship_id": "misc-reliant-mako",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width"
+      ]
+    },
+    {
+      "ship_id": "misc-reliant-sen",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width"
+      ]
+    },
+    {
+      "ship_id": "misc-reliant-tana",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width"
+      ]
+    },
+    {
+      "ship_id": "aegs-retaliator",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "grin-roc",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "krig-s-65-stingray",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "aegs-sabre-firebird",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "aegs-sabre-raven-ex",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "xnaa-san-tok-yai",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "rsi-scorpius",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width"
+      ]
+    },
+    {
+      "ship_id": "rsi-scorpius-antares",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width"
+      ]
+    },
+    {
+      "ship_id": "grey-shiv",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "rsi-skylark",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "misc-starlancer-max",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "misc-starlancer-tac",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "espr-stinger",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length"
+      ]
+    },
+    {
+      "ship_id": "grin-stv",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "gama-syulen",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "anvl-terrapin-medic",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "aegs-tiburon",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "gama-tyilui",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "width",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "rsi-ursa",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "rsi-ursa-fortuna",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "length",
+        "height"
+      ]
+    },
+    {
+      "ship_id": "grin-utv",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "anvl-valkyrie",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "orig-x1",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width"
+      ]
+    },
+    {
+      "ship_id": "orig-x1-force",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width"
+      ]
+    },
+    {
+      "ship_id": "orig-x1-velocity",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "width"
+      ]
+    },
+    {
+      "ship_id": "rsi-zeus-mk-ii-cl",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    },
+    {
+      "ship_id": "rsi-zeus-mk-ii-es",
+      "issue": "dimensions_disagree_over_10_percent",
+      "axes": [
+        "height"
+      ]
+    }
+  ],
+  "limitations": [
+    "Not every image has been visually inspected.",
+    "Source poses, camera parameters, and reference points require per-ship calibration before claiming exact scale.",
+    "Clay assets are visibly different from textured color renders."
+  ],
+  "library_version": "0.3.0",
+  "official_calibration": {
+    "date": "2026-10-21",
+    "counts": {
+      "official_id_matches": 245,
+      "detail_lengths": 245,
+      "matrix_fallback_lengths": 0,
+      "official_conflict_models": 178,
+      "top_official_length_bound": 244,
+      "top_pose_warnings": 37
+    },
+    "issues": [
+      {
+        "ship_id": "orig-100i",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "orig-125a",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "orig-135c",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "orig-325a",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length"
+        ]
+      },
+      {
+        "ship_id": "orig-350r",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length"
+        ]
+      },
+      {
+        "ship_id": "orig-400i",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length"
+        ]
+      },
+      {
+        "ship_id": "orig-85x",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "orig-890-jump",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "crus-a1-spirit",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "crus-a2-hercules",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "rsi-apollo-medivac",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "rsi-apollo-triage",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "crus-ares-inferno",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "height"
+        ]
+      },
+      {
+        "ship_id": "crus-ares-ion",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-arrow",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-asgard",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "argo-atls",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.1507479861910241,
+        "official_ratio": 0.9
+      },
+      {
+        "ship_id": "argo-atls-geo",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.4903129657228018,
+        "official_ratio": 0.9
+      },
+      {
+        "ship_id": "rsi-aurora-mk-i-cl",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "rsi-aurora-mk-ii",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "rsi-aurora-mk-ii",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 0.855,
+        "official_ratio": 2.619047619047619
+      },
+      {
+        "ship_id": "rsi-aurora-mk-i-se",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "aegs-avenger-stalker",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "aegs-avenger-titan",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "aegs-avenger-titan-renegade",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "aegs-avenger-warlock",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "espr-blade",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "drak-buccaneer",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "crus-c1-spirit",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "crus-c2-hercules",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "anvl-c8-pisces",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-c8r-pisces",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-c8x-pisces-expedition",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-carrack",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width"
+        ]
+      },
+      {
+        "ship_id": "drak-caterpillar",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "drak-clipper",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 0.545,
+        "official_ratio": 1.4722222222222223
+      },
+      {
+        "ship_id": "rsi-constellation-mk-iv-andromeda",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "rsi-constellation-mk-iv-aquila",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "rsi-constellation-mk-iv-phoenix",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "rsi-constellation-mk-iv-taurus",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "drak-corsair",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "drak-corsair",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 0.843,
+        "official_ratio": 2.037037037037037
+      },
+      {
+        "ship_id": "anvl-crucible",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.2360939431396787,
+        "official_ratio": 1.8
+      },
+      {
+        "ship_id": "argo-csv-sm",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "drak-cutlass-black",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "drak-cutlass-black",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.36986301369863,
+        "official_ratio": 1.0943396226415094
+      },
+      {
+        "ship_id": "drak-cutlass-blue",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "drak-cutlass-red",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "drak-cutlass-steel",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "drak-cutter",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width"
+        ]
+      },
+      {
+        "ship_id": "drak-cutter-rambler",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width"
+        ]
+      },
+      {
+        "ship_id": "drak-cutter-scout",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width"
+        ]
+      },
+      {
+        "ship_id": "tmbl-cyclone",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "tmbl-cyclone-aa",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "tmbl-cyclone-mt",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "tmbl-cyclone-rc",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "tmbl-cyclone-rn",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "tmbl-cyclone-tr",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "banu-defender",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "banu-defender",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 2.242152466367713,
+        "official_ratio": 1.275
+      },
+      {
+        "ship_id": "drak-dragonfly-black",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "drak-dragonfly-black",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 3.1847133757961785,
+        "official_ratio": 2.0
+      },
+      {
+        "ship_id": "drak-dragonfly-yellowjacket",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "crus-e1-spirit",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "aegs-eclipse",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-f7a-hornet-mk-i",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-f7c-hornet-mk-i",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-f7c-hornet-mk-ii",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-f7c-hornet-wildfire-mk-i",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-f7c-m-super-hornet-heartseeker-mk-i",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-f7c-m-super-hornet-mk-i",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-f7c-m-super-hornet-mk-ii",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width"
+        ]
+      },
+      {
+        "ship_id": "anvl-f7c-m-super-hornet-mk-ii",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 0.987,
+        "official_ratio": 1.263157894736842
+      },
+      {
+        "ship_id": "anvl-f7c-r-hornet-tracker-mk-i",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-f7c-r-hornet-tracker-mk-ii",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-f7c-r-hornet-tracker-mk-ii",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.0319917440660475,
+        "official_ratio": 1.5
+      },
+      {
+        "ship_id": "anvl-f7c-s-hornet-ghost-mk-i",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-f7c-s-hornet-ghost-mk-ii",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-f7c-s-hornet-ghost-mk-ii",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.0111223458038423,
+        "official_ratio": 1.5
+      },
+      {
+        "ship_id": "anvl-f8c-lightning",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-f8c-lightning-executive-edition",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "misc-fortune",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "misc-freelancer-max",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width"
+        ]
+      },
+      {
+        "ship_id": "mrai-fury-lx",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.7857142857142858,
+        "official_ratio": 1.2962962962962963
+      },
+      {
+        "ship_id": "anvl-gladiator",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "aegs-gladius",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "aegs-gladius-pirate-edition",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "aegs-gladius-valiant",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "espr-glaive",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "drak-golem",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "drak-golem-ox",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "mrai-guardian",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "mrai-guardian-mx",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "mrai-guardian-qi",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "aegs-hammerhead",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "anvl-hawk",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "drak-herald",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length"
+        ]
+      },
+      {
+        "ship_id": "rsi-hermes",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "cnou-hoverquad",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "misc-hull-a",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "misc-hull-b",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "misc-hull-c",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-hurricane",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-hurricane",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.1695906432748537,
+        "official_ratio": 1.5172413793103448
+      },
+      {
+        "ship_id": "aegs-idris-m",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "aegs-idris-p",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "crus-intrepid",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "height"
+        ]
+      },
+      {
+        "ship_id": "drak-ironclad",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "drak-ironclad-assault",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "xnaa-khartu-al",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "xnaa-khartu-al",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 0.573,
+        "official_ratio": 2.3461538461538463
+      },
+      {
+        "ship_id": "rsi-lynx",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "height"
+        ]
+      },
+      {
+        "ship_id": "crus-m2-hercules",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "orig-m50",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "orig-m80",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "rsi-mantis",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "height"
+        ]
+      },
+      {
+        "ship_id": "crus-mercury-star-runner",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "rsi-meteor",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "height"
+        ]
+      },
+      {
+        "ship_id": "argo-mole",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width"
+        ]
+      },
+      {
+        "ship_id": "argo-mpuv-cargo",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "argo-mpuv-personnel",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "argo-mpuv-tractor",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "grin-mtc",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "drak-mule",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "cnou-mustang-omega",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "cnou-nomad",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "tmbl-nova",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "xnaa-nox",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "xnaa-nox-kue",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "misc-odyssey",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.9267822736030829,
+        "official_ratio": 1.5555555555555556
+      },
+      {
+        "ship_id": "krig-p-52-merlin",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "height"
+        ]
+      },
+      {
+        "ship_id": "krig-p-72-archimedes",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "height"
+        ]
+      },
+      {
+        "ship_id": "rsi-perseus",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "rsi-perseus",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.7730496453900708,
+        "official_ratio": 2.381516587677725
+      },
+      {
+        "ship_id": "drak-pitbull",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "drak-pitbull",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 0.986,
+        "official_ratio": 0.6610169491525423
+      },
+      {
+        "ship_id": "rsi-polaris",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "misc-prospector",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "grin-ptv",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "mrai-pulse",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "mrai-pulse-lx",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "gama-railen",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "gama-railen",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 0.971,
+        "official_ratio": 1.25
+      },
+      {
+        "ship_id": "tmbl-ranger-cv",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 4.149377593360996,
+        "official_ratio": 1.85
+      },
+      {
+        "ship_id": "tmbl-ranger-rc",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 4.184100418410042,
+        "official_ratio": 1.85
+      },
+      {
+        "ship_id": "tmbl-ranger-tr",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 3.0120481927710845,
+        "official_ratio": 1.85
+      },
+      {
+        "ship_id": "mrai-razor",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "mrai-razor-ex",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "mrai-razor-lx",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "aegs-reclaimer",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "aegs-reclaimer",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.6666666666666667,
+        "official_ratio": 1.3135593220338984
+      },
+      {
+        "ship_id": "aegs-redeemer",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width"
+        ]
+      },
+      {
+        "ship_id": "misc-reliant-kore",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "misc-reliant-kore",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.4388489208633093,
+        "official_ratio": 0.5087719298245614
+      },
+      {
+        "ship_id": "misc-reliant-mako",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "misc-reliant-mako",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.4367816091954022,
+        "official_ratio": 0.5087719298245614
+      },
+      {
+        "ship_id": "misc-reliant-sen",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "misc-reliant-sen",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.4367816091954022,
+        "official_ratio": 0.5087719298245614
+      },
+      {
+        "ship_id": "misc-reliant-tana",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "misc-reliant-tana",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.4388489208633093,
+        "official_ratio": 0.5087719298245614
+      },
+      {
+        "ship_id": "aegs-retaliator",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "aegs-retaliator",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.639344262295082,
+        "official_ratio": 2.3666666666666667
+      },
+      {
+        "ship_id": "grin-roc",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "grin-roc-ds",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "height"
+        ]
+      },
+      {
+        "ship_id": "krig-s-65-stingray",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "krig-s-65-stingray",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 0.912,
+        "official_ratio": 1.4939024390243905
+      },
+      {
+        "ship_id": "aegs-sabre",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "aegs-sabre-comet",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "aegs-sabre-firebird",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "aegs-sabre-firebird",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.1820330969267139,
+        "official_ratio": 0.8666666666666667
+      },
+      {
+        "ship_id": "aegs-sabre-peregrine",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "aegs-sabre-raven",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "aegs-sabre-raven-ex",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "aegs-sabre-raven-ex",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.2019230769230769,
+        "official_ratio": 0.8666666666666667
+      },
+      {
+        "ship_id": "xnaa-san-tok-yai",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "height"
+        ]
+      },
+      {
+        "ship_id": "rsi-scorpius",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "rsi-scorpius-antares",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width"
+        ]
+      },
+      {
+        "ship_id": "vncl-scythe",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "vncl-scythe",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.8083182640144666,
+        "official_ratio": 1.3478260869565217
+      },
+      {
+        "ship_id": "grey-shiv",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "rsi-skylark",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "rsi-skylark",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.1185682326621924,
+        "official_ratio": 1.625
+      },
+      {
+        "ship_id": "argo-srv",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "misc-starfarer",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "misc-starfarer-gemini",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "misc-starlancer-tac",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "misc-starlite",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width"
+        ]
+      },
+      {
+        "ship_id": "espr-stinger",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "espr-stinger",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.1049723756906078,
+        "official_ratio": 0.9142857142857143
+      },
+      {
+        "ship_id": "tmbl-storm",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "tmbl-storm-aa",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "grin-stv",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "gama-syulen",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 0.543,
+        "official_ratio": 0.8928571428571429
+      },
+      {
+        "ship_id": "espr-talon",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "espr-talon-shrike",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-terrapin",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-terrapin-medic",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "gama-tyilui",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "rsi-ursa",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "rsi-ursa-fortuna",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "rsi-ursa-medivac",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "grin-utv",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-valkyrie",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "anvl-valkyrie",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 1.321003963011889,
+        "official_ratio": 3.1
+      },
+      {
+        "ship_id": "aegs-vanguard-harbinger",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "aegs-vanguard-hoplite",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "aegs-vanguard-sentinel",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "aegs-vanguard-warden",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "drak-vulture",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length"
+        ]
+      },
+      {
+        "ship_id": "orig-x1",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "orig-x1-force",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "orig-x1-velocity",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "length",
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "orig-x1-velocity",
+        "issue": "top_image_ratio_differs_from_official",
+        "image_ratio": 2.6881720430107525,
+        "official_ratio": 4.230769230769231
+      },
+      {
+        "ship_id": "rsi-zeus-mk-ii-cl",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width",
+          "height"
+        ]
+      },
+      {
+        "ship_id": "rsi-zeus-mk-ii-es",
+        "issue": "official_detail_matrix_disagree",
+        "axes": [
+          "width",
+          "height"
+        ]
+      }
+    ],
+    "formula": "output_scale = canvas_pixels_per_meter / asset_pixels_per_meter; draw visible crop at one uniform scale on both axes",
+    "limitations": [
+      "Top-view length relation is tied to silhouette extent, not a manually measured hull keel.",
+      "Angled projection is approximate unless a two-point reference is supplied.",
+      "Conflicting official dimensions are preserved and flagged."
+    ]
+  },
+  "prior_audit_note": "Original FleetYards/Wiki material audit retained. Current selected dimensions now follow official detail pages; official conflicts are reported separately."
+}

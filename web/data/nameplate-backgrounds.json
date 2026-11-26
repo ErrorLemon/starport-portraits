@@ -1,0 +1,41 @@
+[
+  {
+    "id": "bengal-one",
+    "name": "孟加拉 · 星海远航",
+    "url": "https://robertsspaceindustries.com/media/aujdpwrf3lzcrr/source/Squadron42-2880-1c.png",
+    "source_url": "https://robertsspaceindustries.com/en/comm-link/transmission/12877-Squadron-42-Wallpapers-And-Survey-Update",
+    "width": 2880,
+    "height": 1800,
+    "content_type": "image/png",
+    "file": "backgrounds/bengal-one.png",
+    "sha256": "f2e8485b12ff654a8d060cee258cdcdac8c8d636f32290c568b3288274abfa3f",
+    "credit": "背景：CIG / RSI",
+    "rights": "Game imagery © Cloud Imperium Games / Roberts Space Industries; original public wallpaper / official ship page. Non-commercial local fan project."
+  },
+  {
+    "id": "bengal-two",
+    "name": "孟加拉 · 舰队出击",
+    "url": "https://robertsspaceindustries.com/media/2a8f0zluec3kir/source/Squadron42-2880-2c.png",
+    "source_url": "https://robertsspaceindustries.com/en/comm-link/transmission/12877-Squadron-42-Wallpapers-And-Survey-Update",
+    "width": 2880,
+    "height": 1800,
+    "content_type": "image/png",
+    "file": "backgrounds/bengal-two.png",
+    "sha256": "251f02f31d41c658cc3d3d358b16fb05971527c5c1c2f0a93f93948fc1f3af51",
+    "credit": "背景：CIG / RSI",
+    "rights": "Game imagery © Cloud Imperium Games / Roberts Space Industries; original public wallpaper / official ship page. Non-commercial local fan project."
+  },
+  {
+    "id": "carrack",
+    "name": "克拉克 · 探索之旅",
+    "url": "https://robertsspaceindustries.com/i/769ad79189c71d53331cc76aa41b09a09c512244/resize(2048,1024,cover,ADdPNihJzmPbNuTnFsH1DqUeqBRpXdSXVVtgJTyDDgscGKrzJuoFjResijpd9a1QppWGLqGr3g6nG4GJrw2mPpW4n)/source.jpg",
+    "source_url": "https://robertsspaceindustries.com/en/pledge/ships/carrack/Carrack",
+    "width": 2048,
+    "height": 1024,
+    "content_type": "image/jpeg",
+    "file": "backgrounds/carrack.jpg",
+    "sha256": "8f89ffd1d909af24d9fc7180b9f20c1bc527510ef1e3919ad1d2e7cf0471fb34",
+    "credit": "背景：CIG / RSI",
+    "rights": "Game imagery © Cloud Imperium Games / Roberts Space Industries; original public wallpaper / official ship page. Non-commercial local fan project."
+  }
+]

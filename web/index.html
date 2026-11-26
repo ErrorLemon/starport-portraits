@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; connect-src 'none'; base-uri 'none'; object-src 'none'; form-action 'none'">
+  <title>星港合影 · 星际公民离线舰队工具</title>
+  <link rel="stylesheet" href="app.css">
+  <link rel="stylesheet" href="fleet.css">
+  <script src="data/library.js" defer></script>
+  <script src="fleet-engine.js" defer></script>
+  <script src="data/nameplate-backgrounds.js" defer></script>
+  <script src="app.js" defer></script>
+  <script src="fleet.js" defer></script>
+  <script src="nameplate.js" defer></script>
+  <script src="data/excel-template.js" defer></script>
+  <script src="vendor/xlsx.full.min.js" defer></script>
+  <script src="excel-engine.js" defer></script>
+  <script src="excel.js" defer></script>
+</head>
+<body>
+  <aside class="sidebar">
+    <a class="brand" href="index.html" aria-label="舰船素材库首页"><span class="brand-mark">✦</span><span>星港合影<small>STARPORT PORTRAITS</small></span></a>
+    <div class="side-title">工作空间</div>
+    <button class="nav-active" id="allModels">▦ <span>舰船素材库</span><b id="sideCount">—</b></button>
+    <button id="fleetNav">✧ <span>成员与全家福</span></button>
+    <button id="nameplateNav">▧ <span>个人名牌</span></button>
+    <div class="side-title manufacturers-title">制造商 <button id="resetFilters" class="text-button">重置</button></div>
+    <nav id="manufacturers" aria-label="按制造商筛选"></nav>
+    <div class="side-footer"><span class="online-dot"></span> 完全离线运行<br><small>图片与资料保存在本机<br>素材快照 · 2026.10.21</small></div>
+  </aside>
+  <main>
+    <header class="topbar"><div class="breadcrumb" id="workspaceBreadcrumb">本地工作空间 <span>/</span> 舰船素材库</div><div class="top-actions"><span id="saveState" class="save-state">正在读取本地资料</span><button id="importLibrary" class="button quiet">导入图库备份</button><button id="exportLibrary" class="button accent">导出图库备份 ↗</button></div></header>
+    <div id="libraryWorkspace">
+    <section class="heading"><div><div class="eyebrow">STAR CITIZEN / ASSET LIBRARY</div><h1>你的舰队，从这里建立。</h1><p>查找舰船、检查透明素材，为每一次舰队全家福做好准备。</p></div><button id="addShip" class="button light">＋ 添加型号</button></section>
+    <section class="stats" aria-label="图库统计" id="stats"></section>
+    <section class="library">
+      <div class="library-title"><h2>舰船索引 <span id="resultCount"></span></h2><div class="view-control" role="group" aria-label="图片视角"><button data-view="angled" class="selected">斜俯视</button><button data-view="top">俯视</button></div></div>
+      <div class="filters"><label class="search"><span>⌕</span><input id="search" type="search" placeholder="搜索中文、英文、俗称或制造商…" aria-label="搜索舰船"></label><select id="kind" aria-label="类型"><option value="">全部类型</option><option value="spaceship">舰船</option><option value="ground">地面载具</option></select><select id="assetFilter" aria-label="素材状态"><option value="">全部素材</option><option value="colored">彩色素材</option><option value="clay">灰色模型</option><option value="missing">缺少图片</option><option value="conflict">尺寸有差异</option></select><select id="sort" aria-label="排序"><option value="name">名称 A–Z</option><option value="length-desc">舰长 从大到小</option><option value="length-asc">舰长 从小到大</option></select></div>
+      <div class="notice"><span>ⓘ</span><span>卡片为等大预览，<strong>不表示实际比例</strong>。已按官网详情长度建立俯视图比例关系；官网内部差异、姿态和共享模型另有提示。灰色模型与彩色素材已分别标记。</span></div>
+      <div class="grid" id="grid"></div>
+      <div class="pagination"><button id="loadMore" class="button quiet">显示更多舰船</button><span id="pageInfo"></span></div>
+    </section>
+    <footer>版本 0.5.1 · 星港合影　<span>舰队全家福 · 个人名牌 · 完全离线。</span><br><small>图片来源 FleetYards.net；长度默认采用 RSI 官网详情页，保留官网矩阵、Wiki 与 FleetYards 原值。中文名称来自星际公民汉化组与中文百科（详见名称来源与许可文件）。游戏资产归其各自权利人所有。</small></footer>
+    </div>
+    <section id="fleetWorkspace" hidden></section>
+    <section id="nameplateWorkspace" hidden></section>
+  </main>
+  <dialog id="details" aria-labelledby="detailTitle"><form id="editForm"><div class="dialog-header"><div><div class="eyebrow" id="detailMaker"></div><h2 id="detailTitle"></h2></div><button type="button" class="icon-button" id="closeDetails" aria-label="关闭">×</button></div><div class="dialog-body"><div id="detailPreview" class="detail-preview"></div><div class="preview-tools"><span id="detailImageLabel"></span><button type="button" id="toggleBg" class="text-button">切换底色</button></div><div id="detailFacts"></div><div class="section-label">可编辑资料</div><label>英文型号<input id="editName" required maxlength="120"></label><label>中文显示名<input id="editZh" maxlength="120" placeholder="可以使用你们舰队的习惯叫法"></label><label>搜索俗称<input id="editAliases" maxlength="500" placeholder="用逗号分隔多个名称"></label><div class="form-row"><label>长度 / 米<input id="editLength" type="number" min="0.01" step="any"></label><label>宽度 / 米<input id="editWidth" type="number" min="0.01" step="any"></label><label>高度 / 米<input id="editHeight" type="number" min="0.01" step="any"></label></div><label>尺寸依据<select id="dimensionSource"><option value="manual">当前值 / 人工输入</option><option value="rsi_detail_structured">官网详情页</option><option value="rsi_matrix">官网矩阵</option></select></label><label>制造商<input id="editManufacturer" required maxlength="120"></label><label>类型<select id="editKind"><option value="spaceship">舰船</option><option value="ground">地面载具</option></select></label><label>备注<textarea id="editNotes" rows="3" maxlength="3000" placeholder="素材质量、姿态、涂装或待确认事项"></textarea></label><div class="section-label">替换当前视角的图片</div><p class="form-help">只替换当前预览视角，支持透明 PNG / WebP。导出备份会包含新图片。</p><input id="replaceImage" type="file" accept="image/png,image/webp,image/jpeg"><div id="replacementInfo" class="form-help"></div><div class="section-label">比例校准记录</div><p class="form-help">俯视图默认用透明轮廓的纵向跨度对应舰长；横纵使用同一倍率。可点选船首与船尾修正参考线。斜视图仍受透视影响，只用于近似展示。</p><button type="button" class="button quiet" id="measureShip">点选船首与船尾</button><p id="measureHelp" class="form-help"></p><canvas id="measureCanvas" hidden></canvas><label>舰体长度参考 / 像素<input id="editReference" type="number" min="0.01" step="any" placeholder="尚未测量"></label><label>校准说明<textarea id="editCalibrationNotes" rows="2" maxlength="2000"></textarea></label><div class="section-label">来源与原始尺寸</div><div id="detailSources" class="sources"></div></div><div class="dialog-footer"><button type="button" id="downloadImage" class="button quiet">下载当前图片</button><button type="submit" class="button accent">保存修改</button></div></form></dialog>
+  <input type="file" id="libraryFile" accept=".json,application/json" hidden>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

@@ -1,0 +1,4732 @@
+{
+  "revision": "community-2026-10-21",
+  "records": [
+    {
+      "ship_id": "orig-100i",
+      "english": "100i",
+      "display_name": "100i",
+      "aliases": [
+        "起源 100i",
+        "100i"
+      ],
+      "source_key": "vehicle_NameORIG_100i",
+      "source_value": "起源 100i",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "100i",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-125a",
+      "english": "125a",
+      "display_name": "125a",
+      "aliases": [
+        "起源 125a",
+        "125a"
+      ],
+      "source_key": "vehicle_NameORIG_125a",
+      "source_value": "起源 125a",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "125a",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-135c",
+      "english": "135c",
+      "display_name": "135c",
+      "aliases": [
+        "起源 135c",
+        "135c"
+      ],
+      "source_key": "vehicle_NameORIG_135c",
+      "source_value": "起源 135c",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "135c",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-300i",
+      "english": "300i",
+      "display_name": "300i",
+      "aliases": [
+        "起源 300i",
+        "300i"
+      ],
+      "source_key": "vehicle_NameORIG_300i",
+      "source_value": "起源 300i",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "300i",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-315p",
+      "english": "315p",
+      "display_name": "315p",
+      "aliases": [
+        "起源 315p",
+        "315p"
+      ],
+      "source_key": "vehicle_NameORIG_315p",
+      "source_value": "起源 315p",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "315p",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-325a",
+      "english": "325a",
+      "display_name": "325a",
+      "aliases": [
+        "起源 325a",
+        "325a"
+      ],
+      "source_key": "vehicle_NameORIG_325a",
+      "source_value": "起源 325a",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "325a",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-350r",
+      "english": "350r",
+      "display_name": "350r",
+      "aliases": [
+        "起源 350r",
+        "350r"
+      ],
+      "source_key": "vehicle_NameORIG_350r",
+      "source_value": "起源 350r",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "350r",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-400i",
+      "english": "400i",
+      "display_name": "400i",
+      "aliases": [
+        "起源 400i",
+        "400i"
+      ],
+      "source_key": "vehicle_NameORIG_400i",
+      "source_value": "起源 400i",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "400i",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-600i-executive-edition",
+      "english": "600i Executive-Edition",
+      "display_name": "600i 行政版",
+      "aliases": [
+        "起源 600i 行政版",
+        "600i 行政版"
+      ],
+      "source_key": "vehicle_NameORIG_600i_Executive",
+      "source_value": "起源 600i 行政版",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "explicit_class_mapping",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-600i-explorer",
+      "english": "600i Explorer",
+      "display_name": "600i",
+      "aliases": [
+        "起源 600i",
+        "600i"
+      ],
+      "source_key": "vehicle_NameORIG_600i",
+      "source_value": "起源 600i",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "600i 探索型",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-600i-touring",
+      "english": "600i Touring",
+      "display_name": "600i 旅行版",
+      "aliases": [
+        "起源 600i 旅行版",
+        "600i 旅行版"
+      ],
+      "source_key": "vehicle_NameORIG_600i_Touring",
+      "source_value": "起源 600i 旅行版",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "600i 旅行型",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-85x",
+      "english": "85X",
+      "display_name": "85X 限量版",
+      "aliases": [
+        "起源 85X 限量版",
+        "85X 限量版"
+      ],
+      "source_key": "vehicle_NameORIG_85X",
+      "source_value": "起源 85X 限量版",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-890-jump",
+      "english": "890 Jump",
+      "display_name": "890 跃动",
+      "aliases": [
+        "起源 890 跃动",
+        "890 跃动"
+      ],
+      "source_key": "vehicle_NameORIG_890Jump",
+      "source_value": "起源 890 跃动",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "890 跃动",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "crus-a1-spirit",
+      "english": "A1 Spirit",
+      "display_name": "星灵 A1",
+      "aliases": [
+        "十字军 星灵 A1",
+        "星灵 A1"
+      ],
+      "source_key": "vehicle_NameCRUS_A1_Spirit",
+      "source_value": "十字军 星灵 A1",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "A1 精灵",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "crus-a2-hercules",
+      "english": "A2 Hercules",
+      "display_name": "大力神 A2 星际运输船",
+      "aliases": [
+        "十字军 大力神 A2 星际运输船",
+        "大力神 A2"
+      ],
+      "source_key": "vehicle_NameCRUS_Starlifter_A2",
+      "source_value": "十字军 大力神 A2 星际运输船",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "A2 大力神",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-apollo-medivac",
+      "english": "Apollo Medivac",
+      "display_name": "阿波罗 医疗",
+      "aliases": [
+        "RSI 阿波罗 医疗",
+        "阿波罗 医疗"
+      ],
+      "source_key": "vehicle_NameRSI_Apollo_Medivac",
+      "source_value": "RSI 阿波罗 医疗",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-apollo-triage",
+      "english": "Apollo Triage",
+      "display_name": "阿波罗 分诊",
+      "aliases": [
+        "RSI 阿波罗 分诊",
+        "阿波罗 分诊"
+      ],
+      "source_key": "vehicle_NameRSI_Apollo_Triage",
+      "source_value": "RSI 阿波罗 分诊",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "crus-ares-inferno",
+      "english": "Ares Inferno",
+      "display_name": "战神 星际战斗机 地狱火",
+      "aliases": [
+        "十字军 战神 星际战斗机 地狱火",
+        "战神 地狱火"
+      ],
+      "source_key": "vehicle_NameCRUS_Starfighter_Inferno",
+      "source_value": "十字军 战神 星际战斗机 地狱火",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "战神 地狱火",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "crus-ares-ion",
+      "english": "Ares Ion",
+      "display_name": "战神 星际战斗机 离子光",
+      "aliases": [
+        "十字军 战神 星际战斗机 离子光",
+        "战神 离子光"
+      ],
+      "source_key": "vehicle_NameCRUS_Starfighter_Ion",
+      "source_value": "十字军 战神 星际战斗机 离子光",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "战神 离子",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-arrastra",
+      "english": "Arrastra",
+      "display_name": "阿拉斯塔",
+      "aliases": [
+        "RSI 阿拉斯塔",
+        "阿拉斯塔"
+      ],
+      "source_key": "vehicle_NameRSI_Arrastra",
+      "source_value": "RSI 阿拉斯塔",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "阿拉斯特拉",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-arrow",
+      "english": "Arrow",
+      "display_name": "箭矢",
+      "aliases": [
+        "铁砧 箭矢",
+        "箭矢"
+      ],
+      "source_key": "vehicle_NameANVL_Arrow",
+      "source_value": "铁砧 箭矢",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "箭矢",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-asgard",
+      "english": "Asgard",
+      "display_name": "阿斯加德",
+      "aliases": [
+        "铁砧 阿斯加德",
+        "阿斯加德"
+      ],
+      "source_key": "vehicle_NameANVL_Asgard",
+      "source_value": "铁砧 阿斯加德",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "argo-atls",
+      "english": "ATLS",
+      "display_name": "ATLS",
+      "aliases": [
+        "南船座 ATLS",
+        "ATLS"
+      ],
+      "source_key": "vehicle_NameARGO_ATLS",
+      "source_value": "南船座 ATLS",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "argo-atls-geo",
+      "english": "ATLS GEO",
+      "display_name": "ATLS GEO",
+      "aliases": [
+        "南船座 ATLS GEO",
+        "ATLS GEO"
+      ],
+      "source_key": "vehicle_NameARGO_ATLS_GEO",
+      "source_value": "南船座 ATLS GEO",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "argo-atls-ikti-akuma",
+      "english": "ATLS IKTI Akuma",
+      "display_name": "ATLS IKTI 恶魔",
+      "aliases": [
+        "南船座 ATLS IKTI 恶魔",
+        "ATLS IKTI 恶魔"
+      ],
+      "source_key": "vehicle_NameARGO_ATLS_GEO_IKTI_NTLS",
+      "source_value": "南船座 ATLS IKTI 恶魔",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-aurora-mk-i-cl",
+      "english": "Aurora Mk I CL",
+      "display_name": "极光 Mk I CL",
+      "aliases": [
+        "RSI 极光 Mk I CL",
+        "极光 CL"
+      ],
+      "source_key": "vehicle_NameRSI_Aurora_CL",
+      "source_value": "RSI 极光 Mk I CL",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "极光 CL",
+      "previous_seed_aliases": [
+        "Aurora CL"
+      ]
+    },
+    {
+      "ship_id": "rsi-aurora-mk-i-es",
+      "english": "Aurora Mk I ES",
+      "display_name": "极光 Mk I ES",
+      "aliases": [
+        "RSI 极光 Mk I ES",
+        "极光 ES"
+      ],
+      "source_key": "vehicle_NameRSI_Aurora_ES",
+      "source_value": "RSI 极光 Mk I ES",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "极光 ES",
+      "previous_seed_aliases": [
+        "Aurora ES"
+      ]
+    },
+    {
+      "ship_id": "rsi-aurora-mk-ii",
+      "english": "Aurora Mk II",
+      "display_name": "极光 Mk II",
+      "aliases": [
+        "RSI 极光 Mk II",
+        "极光 Mk II"
+      ],
+      "source_key": "vehicle_NameRSI_Aurora_Mk2",
+      "source_value": "RSI 极光 Mk II",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-aurora-mk-i-ln",
+      "english": "Aurora Mk I LN",
+      "display_name": "极光 Mk I LN",
+      "aliases": [
+        "RSI 极光 Mk I LN",
+        "极光 LN"
+      ],
+      "source_key": "vehicle_NameRSI_Aurora_LN",
+      "source_value": "RSI 极光 Mk I LN",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "极光 LN",
+      "previous_seed_aliases": [
+        "Aurora LN"
+      ]
+    },
+    {
+      "ship_id": "rsi-aurora-mk-i-lx",
+      "english": "Aurora Mk I LX",
+      "display_name": "极光 Mk I LX",
+      "aliases": [
+        "RSI 极光 Mk I LX",
+        "极光 LX"
+      ],
+      "source_key": "vehicle_NameRSI_Aurora_LX",
+      "source_value": "RSI 极光 Mk I LX",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "极光 LX",
+      "previous_seed_aliases": [
+        "Aurora LX"
+      ]
+    },
+    {
+      "ship_id": "rsi-aurora-mk-i-mr",
+      "english": "Aurora Mk I MR",
+      "display_name": "极光 Mk I MR",
+      "aliases": [
+        "RSI 极光 Mk I MR",
+        "极光 MR"
+      ],
+      "source_key": "vehicle_NameRSI_Aurora_MR",
+      "source_value": "RSI 极光 Mk I MR",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "极光 MR",
+      "previous_seed_aliases": [
+        "Aurora MR"
+      ]
+    },
+    {
+      "ship_id": "rsi-aurora-mk-i-se",
+      "english": "Aurora Mk I SE",
+      "display_name": "极光 Mk I SE",
+      "aliases": [
+        "RSI 极光 Mk I SE",
+        "极光 Mk I SE"
+      ],
+      "source_key": "vehicle_NameRSI_Aurora_SE",
+      "source_value": "RSI 极光 Mk I SE",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": [
+        "Aurora SE"
+      ]
+    },
+    {
+      "ship_id": "aegs-avenger-stalker",
+      "english": "Avenger Stalker",
+      "display_name": "复仇者 追猎",
+      "aliases": [
+        "圣盾 复仇者 追猎",
+        "复仇者 追猎"
+      ],
+      "source_key": "vehicle_NameAEGS_Avenger_Stalker",
+      "source_value": "圣盾 复仇者 追猎",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "复仇者 追猎者",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-avenger-titan",
+      "english": "Avenger Titan",
+      "display_name": "复仇者 泰坦",
+      "aliases": [
+        "圣盾 复仇者 泰坦",
+        "复仇者 泰坦"
+      ],
+      "source_key": "vehicle_NameAEGS_Avenger_Titan",
+      "source_value": "圣盾 复仇者 泰坦",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "复仇者 泰坦",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-avenger-titan-renegade",
+      "english": "Avenger Titan Renegade",
+      "display_name": "复仇者 泰坦变节者",
+      "aliases": [
+        "圣盾 复仇者 泰坦变节者",
+        "复仇者 泰坦 变节者"
+      ],
+      "source_key": "vehicle_NameAEGS_Avenger_Titan_Renegade",
+      "source_value": "圣盾 复仇者 泰坦变节者",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-avenger-warlock",
+      "english": "Avenger Warlock",
+      "display_name": "复仇者 术士",
+      "aliases": [
+        "圣盾 复仇者 术士",
+        "复仇者 术士"
+      ],
+      "source_key": "vehicle_NameAEGS_Avenger_Warlock",
+      "source_value": "圣盾 复仇者 术士",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "复仇者 术士",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-ballista",
+      "english": "Ballista",
+      "display_name": "弩炮",
+      "aliases": [
+        "铁砧 弩炮",
+        "弩炮"
+      ],
+      "source_key": "vehicle_NameANVL_Ballista",
+      "source_value": "铁砧 弩炮",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "弩炮",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "grey-basher",
+      "english": "Basher",
+      "display_name": "重锤",
+      "aliases": [
+        "格雷黑市 重锤",
+        "重锤"
+      ],
+      "source_key": "vehicle_NameGLSN_Basher",
+      "source_value": "格雷黑市 重锤",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-bengal",
+      "english": "Bengal",
+      "display_name": "孟加拉航母",
+      "aliases": [
+        "RSI 孟加拉航母",
+        "孟加拉航母"
+      ],
+      "source_key": "vehicle_NameRSI_Bengal",
+      "source_value": "RSI 孟加拉航母",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "espr-blade",
+      "english": "Blade",
+      "display_name": "刀锋",
+      "aliases": [
+        "埃斯佩里亚 刀锋"
+      ],
+      "source_key": "vehicle_NameESPR_Blade",
+      "source_value": "埃斯佩里亚 刀锋",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "explicit_class_mapping",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "刀锋",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-buccaneer",
+      "english": "Buccaneer",
+      "display_name": "掠夺者",
+      "aliases": [
+        "德雷克 掠夺者",
+        "掠夺者"
+      ],
+      "source_key": "vehicle_NameDRAK_Buccaneer",
+      "source_value": "德雷克 掠夺者",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "掠夺者",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "crus-c1-spirit",
+      "english": "C1 Spirit",
+      "display_name": "星灵 C1",
+      "aliases": [
+        "十字军 星灵 C1",
+        "星灵 C1"
+      ],
+      "source_key": "vehicle_NameCRUS_C1_Spirit",
+      "source_value": "十字军 星灵 C1",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "C1 精灵",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "crus-c2-hercules",
+      "english": "C2 Hercules",
+      "display_name": "大力神 C2 星际运输船",
+      "aliases": [
+        "十字军 大力神 C2 星际运输船",
+        "大力神 C2"
+      ],
+      "source_key": "vehicle_NameCRUS_Starlifter_C2",
+      "source_value": "十字军 大力神 C2 星际运输船",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "C2 大力神",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-c8-pisces",
+      "english": "C8 Pisces",
+      "display_name": "C8 双鱼座",
+      "aliases": [
+        "铁砧 C8 双鱼座",
+        "C8 双鱼座"
+      ],
+      "source_key": "vehicle_NameANVL_C8_Pisces",
+      "source_value": "铁砧 C8 双鱼座",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "C8 双鱼座",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-c8r-pisces",
+      "english": "C8R Pisces",
+      "display_name": "C8R 双鱼座 救护",
+      "aliases": [
+        "铁砧 C8R 双鱼座 救护",
+        "C8R 双鱼座 救护"
+      ],
+      "source_key": "vehicle_NameANVL_C8R_Pisces_Rescue",
+      "source_value": "铁砧 C8R 双鱼座 救护",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "explicit_class_mapping",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-c8x-pisces-expedition",
+      "english": "C8X Pisces Expedition",
+      "display_name": "C8X 双鱼座 远征",
+      "aliases": [
+        "铁砧 C8X 双鱼座 远征"
+      ],
+      "source_key": "vehicle_NameANVL_C8X_Pisces_Expedition",
+      "source_value": "铁砧 C8X 双鱼座 远征",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "C8X 双鱼座 远征型",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-carrack",
+      "english": "Carrack",
+      "display_name": "克拉克",
+      "aliases": [
+        "铁砧 克拉克",
+        "克拉克"
+      ],
+      "source_key": "vehicle_nameANVL_Carrack",
+      "source_value": "铁砧 克拉克",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "克拉克",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-caterpillar",
+      "english": "Caterpillar",
+      "display_name": "毛虫",
+      "aliases": [
+        "德雷克 毛虫",
+        "毛虫"
+      ],
+      "source_key": "vehicle_NameDRAK_Caterpillar",
+      "source_value": "德雷克 毛虫",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "毛虫",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-centurion",
+      "english": "Centurion",
+      "display_name": "百夫长",
+      "aliases": [
+        "铁砧 百夫长",
+        "百夫长"
+      ],
+      "source_key": "vehicle_NameANVL_Centurion",
+      "source_value": "铁砧 百夫长",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "百夫长",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-clipper",
+      "english": "Clipper",
+      "display_name": "快帆",
+      "aliases": [
+        "德雷克 快帆",
+        "快帆"
+      ],
+      "source_key": "vehicle_NameDRAK_Clipper",
+      "source_value": "德雷克 快帆",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-constellation-mk-iv-andromeda",
+      "english": "Constellation Mk IV Andromeda",
+      "display_name": "星座 Mk IV 仙女座",
+      "aliases": [
+        "RSI 星座 Mk IV 仙女座",
+        "星座 MkIV 仙女座"
+      ],
+      "source_key": "vehicle_NameRSI_Constellation_Andromeda",
+      "source_value": "RSI 星座 Mk IV 仙女座",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "星座 仙女座",
+      "previous_seed_aliases": [
+        "Constellation Andromeda"
+      ]
+    },
+    {
+      "ship_id": "rsi-constellation-mk-iv-aquila",
+      "english": "Constellation Mk IV Aquila",
+      "display_name": "星座 Mk IV 天鹰座",
+      "aliases": [
+        "RSI 星座 Mk IV 天鹰座",
+        "星座 MkIV 天鹰座"
+      ],
+      "source_key": "vehicle_NameRSI_Constellation_Aquila",
+      "source_value": "RSI 星座 Mk IV 天鹰座",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "星座 天鹰座",
+      "previous_seed_aliases": [
+        "Constellation Aquila"
+      ]
+    },
+    {
+      "ship_id": "rsi-constellation-mk-iv-phoenix",
+      "english": "Constellation Mk IV Phoenix",
+      "display_name": "星座 Mk IV 凤凰座",
+      "aliases": [
+        "RSI 星座 Mk IV 凤凰座",
+        "星座 MkIV 凤凰座"
+      ],
+      "source_key": "vehicle_NameRSI_Constellation_Phoenix",
+      "source_value": "RSI 星座 Mk IV 凤凰座",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "星座 凤凰座",
+      "previous_seed_aliases": [
+        "Constellation Phoenix"
+      ]
+    },
+    {
+      "ship_id": "rsi-constellation-mk-iv-taurus",
+      "english": "Constellation Mk IV Taurus",
+      "display_name": "星座 Mk IV 金牛座",
+      "aliases": [
+        "RSI 星座 Mk IV 金牛座",
+        "星座 MkIV 金牛座"
+      ],
+      "source_key": "vehicle_NameRSI_Constellation_Taurus",
+      "source_value": "RSI 星座 Mk IV 金牛座",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "星座 金牛座",
+      "previous_seed_aliases": [
+        "Constellation Taurus"
+      ]
+    },
+    {
+      "ship_id": "rsi-constellation-mk-v-centaurus",
+      "english": "Constellation Mk V Centaurus",
+      "display_name": "星座 Mk V 半人马座",
+      "aliases": [
+        "RSI 星座 Mk V 半人马座",
+        "星座 MkV 半人马座"
+      ],
+      "source_key": "vehicle_NameRSI_Constellation_Mk5_Andromeda",
+      "source_value": "RSI 星座 Mk V 半人马座",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "explicit_class_mapping",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-corsair",
+      "english": "Corsair",
+      "display_name": "海盗船",
+      "aliases": [
+        "德雷克 海盗船",
+        "海盗船"
+      ],
+      "source_key": "vehicle_NameDRAK_Corsair",
+      "source_value": "德雷克 海盗船",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "海盗船",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-crucible",
+      "english": "Crucible",
+      "display_name": "坩埚",
+      "aliases": [
+        "铁砧 坩埚",
+        "坩埚"
+      ],
+      "source_key": "vehicle_NameANVL_Crucible",
+      "source_value": "铁砧 坩埚",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "argo-csv-sm",
+      "english": "CSV-SM",
+      "display_name": "CSV-SM",
+      "aliases": [
+        "南船座 CSV-SM",
+        "CSV-SM"
+      ],
+      "source_key": "vehicle_NameARGO_CSV_Cargo",
+      "source_value": "南船座 CSV-SM",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-cutlass-black",
+      "english": "Cutlass Black",
+      "display_name": "黑弯刀",
+      "aliases": [
+        "德雷克 黑弯刀",
+        "黑弯刀"
+      ],
+      "source_key": "vehicle_NameDRAK_Cutlass_Black",
+      "source_value": "德雷克 黑弯刀",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "弯刀 黑",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-cutlass-blue",
+      "english": "Cutlass Blue",
+      "display_name": "蓝弯刀",
+      "aliases": [
+        "德雷克 蓝弯刀",
+        "蓝弯刀"
+      ],
+      "source_key": "vehicle_NameDRAK_Cutlass_Blue",
+      "source_value": "德雷克 蓝弯刀",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "弯刀 蓝",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-cutlass-red",
+      "english": "Cutlass Red",
+      "display_name": "红弯刀",
+      "aliases": [
+        "德雷克 红弯刀",
+        "红弯刀"
+      ],
+      "source_key": "vehicle_NameDRAK_Cutlass_Red",
+      "source_value": "德雷克 红弯刀",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "弯刀 红",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-cutlass-steel",
+      "english": "Cutlass Steel",
+      "display_name": "钢弯刀",
+      "aliases": [
+        "德雷克 钢弯刀",
+        "钢弯刀"
+      ],
+      "source_key": "vehicle_NameDRAK_Cutlass_Steel",
+      "source_value": "德雷克 钢弯刀",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "弯刀 钢",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-cutter",
+      "english": "Cutter",
+      "display_name": "小刀",
+      "aliases": [
+        "德雷克 小刀",
+        "小刀"
+      ],
+      "source_key": "vehicle_NameDRAK_Cutter",
+      "source_value": "德雷克 小刀",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "小刀",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-cutter-rambler",
+      "english": "Cutter Rambler",
+      "display_name": "小刀 漫步者",
+      "aliases": [
+        "德雷克 小刀 漫步者",
+        "小刀 漫步者"
+      ],
+      "source_key": "vehicle_NameDRAK_Cutter_Rambler",
+      "source_value": "德雷克 小刀 漫步者",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "小刀 漫游者",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-cutter-scout",
+      "english": "Cutter Scout",
+      "display_name": "小刀 侦察兵",
+      "aliases": [
+        "德雷克 小刀 侦察兵",
+        "小刀 侦察兵"
+      ],
+      "source_key": "vehicle_NameDRAK_Cutter_Scout",
+      "source_value": "德雷克 小刀 侦察兵",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "小刀 侦察型",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "tmbl-cyclone",
+      "english": "Cyclone",
+      "display_name": "旋风",
+      "aliases": [
+        "盾博尔 旋风",
+        "旋风"
+      ],
+      "source_key": "vehicle_NameTMBL_Cyclone",
+      "source_value": "盾博尔 旋风",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "旋风",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "tmbl-cyclone-aa",
+      "english": "Cyclone AA",
+      "display_name": "旋风 AA",
+      "aliases": [
+        "盾博尔 旋风 AA",
+        "旋风 AA"
+      ],
+      "source_key": "vehicle_NameTMBL_Cyclone_AA",
+      "source_value": "盾博尔 旋风 AA",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "tmbl-cyclone-mt",
+      "english": "Cyclone MT",
+      "display_name": "旋风 MT",
+      "aliases": [
+        "盾博尔 旋风 MT",
+        "旋风 MT"
+      ],
+      "source_key": "vehicle_NameTMBL_Cyclone_MT",
+      "source_value": "盾博尔 旋风 MT",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "tmbl-cyclone-rc",
+      "english": "Cyclone RC",
+      "display_name": "旋风 RC",
+      "aliases": [
+        "盾博尔 旋风 RC",
+        "旋风 RC"
+      ],
+      "source_key": "vehicle_NameTMBL_Cyclone_RC",
+      "source_value": "盾博尔 旋风 RC",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "tmbl-cyclone-rn",
+      "english": "Cyclone RN",
+      "display_name": "旋风 RN",
+      "aliases": [
+        "盾博尔 旋风 RN",
+        "旋风 RN"
+      ],
+      "source_key": "vehicle_NameTMBL_Cyclone_RN",
+      "source_value": "盾博尔 旋风 RN",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "tmbl-cyclone-tr",
+      "english": "Cyclone TR",
+      "display_name": "旋风 TR",
+      "aliases": [
+        "盾博尔 旋风 TR",
+        "旋风 TR"
+      ],
+      "source_key": "vehicle_NameTMBL_Cyclone_TR",
+      "source_value": "盾博尔 旋风 TR",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "banu-defender",
+      "english": "Defender",
+      "display_name": "防卫者",
+      "aliases": [
+        "巴努 防卫者",
+        "防卫者"
+      ],
+      "source_key": "vehicle_NameBanu_Defender",
+      "source_value": "巴努 防卫者",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "防卫者",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-dragonfly-black",
+      "english": "Dragonfly Black",
+      "display_name": "蜻蜓",
+      "aliases": [
+        "德雷克 蜻蜓",
+        "蜻蜓"
+      ],
+      "source_key": "vehicle_NameDRAK_Dragonfly",
+      "source_value": "德雷克 蜻蜓",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-dragonfly-starkitten-edition",
+      "english": "Dragonfly Starkitten Edition",
+      "display_name": "蜻蜓 星空猫",
+      "aliases": [
+        "德雷克 蜻蜓 星空猫",
+        "蜻蜓 星空猫"
+      ],
+      "source_key": "vehicle_NameDRAK_Dragonfly_Pink",
+      "source_value": "德雷克 蜻蜓 星空猫",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-dragonfly-yellowjacket",
+      "english": "Dragonfly Yellowjacket",
+      "display_name": "蜻蜓 黄胡蜂",
+      "aliases": [
+        "德雷克 蜻蜓 黄胡蜂",
+        "蜻蜓 黄胡蜂"
+      ],
+      "source_key": "vehicle_NameDRAK_Dragonfly_Yellow",
+      "source_value": "德雷克 蜻蜓 黄胡蜂",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "crus-e1-spirit",
+      "english": "E1 Spirit",
+      "display_name": "星灵 E1",
+      "aliases": [
+        "十字军 星灵 E1",
+        "星灵 E1"
+      ],
+      "source_key": "vehicle_NameCRUS_E1_Spirit",
+      "source_value": "十字军 星灵 E1",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "E1 精灵",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-eclipse",
+      "english": "Eclipse",
+      "display_name": "日蚀",
+      "aliases": [
+        "圣盾 日蚀",
+        "日蚀"
+      ],
+      "source_key": "vehicle_NameAEGS_Eclipse",
+      "source_value": "圣盾 日蚀",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "日蚀",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-endeavor",
+      "english": "Endeavor",
+      "display_name": "奋进",
+      "aliases": [
+        "武藏 奋进",
+        "奋进"
+      ],
+      "source_key": "vehicle_NameMISC_Endeavor",
+      "source_value": "武藏 奋进",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "奋进",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-expanse",
+      "english": "Expanse",
+      "display_name": "无垠",
+      "aliases": [
+        "武藏 无垠",
+        "无垠"
+      ],
+      "source_key": "vehicle_NameMISC_Expanse",
+      "source_value": "武藏 无垠",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-f7a-hornet-mk-i",
+      "english": "F7A Hornet Mk I",
+      "display_name": "F7A 大黄蜂 Mk I",
+      "aliases": [
+        "铁砧 F7A 大黄蜂 Mk I",
+        "F7A Mk I"
+      ],
+      "source_key": "vehicle_NameANVL_Hornet_F7A",
+      "source_value": "铁砧 F7A 大黄蜂 Mk I",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-f7a-hornet-mk-ii",
+      "english": "F7A Hornet Mk II",
+      "display_name": "F7A 大黄蜂 Mk II",
+      "aliases": [
+        "铁砧 F7A 大黄蜂 Mk II",
+        "F7A Mk II"
+      ],
+      "source_key": "vehicle_NameANVL_Hornet_F7A_Mk2",
+      "source_value": "铁砧 F7A 大黄蜂 Mk II",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "F7A 大黄蜂 Mk II",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-f7c-hornet-mk-i",
+      "english": "F7C Hornet Mk I",
+      "display_name": "F7C 大黄蜂 Mk I",
+      "aliases": [
+        "铁砧 F7C 大黄蜂 Mk I",
+        "F7C Mk I"
+      ],
+      "source_key": "vehicle_NameANVL_Hornet_F7C",
+      "source_value": "铁砧 F7C 大黄蜂 Mk I",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-f7c-hornet-mk-ii",
+      "english": "F7C Hornet Mk II",
+      "display_name": "F7C 大黄蜂 Mk II",
+      "aliases": [
+        "铁砧 F7C 大黄蜂 Mk II",
+        "F7C Mk II"
+      ],
+      "source_key": "vehicle_NameANVL_Hornet_F7C_Mk2",
+      "source_value": "铁砧 F7C 大黄蜂 Mk II",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "F7C 大黄蜂 Mk II",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-f7c-hornet-wildfire-mk-i",
+      "english": "F7C Hornet Wildfire Mk I",
+      "display_name": "F7C 大黄蜂 野火 Mk I",
+      "aliases": [
+        "铁砧 F7C 大黄蜂 野火 Mk I",
+        "F7C 野火 Mk I"
+      ],
+      "source_key": "vehicle_NameANVL_Hornet_F7C_Wildfire",
+      "source_value": "铁砧 F7C 大黄蜂 野火 Mk I",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-f7c-m-super-hornet-heartseeker-mk-i",
+      "english": "F7C-M Super Hornet Heartseeker Mk I",
+      "display_name": "F7C-M 大黄蜂 寻心者 Mk I",
+      "aliases": [
+        "铁砧 F7C-M 大黄蜂 寻心者 Mk I",
+        "F7C-M 大黄蜂 寻心者 Mk I"
+      ],
+      "source_key": "vehicle_NameANVL_Hornet_F7CM_Heartseeker",
+      "source_value": "铁砧 F7C-M 大黄蜂 寻心者 Mk I",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-f7c-m-super-hornet-mk-i",
+      "english": "F7C-M Super Hornet Mk I",
+      "display_name": "F7C-M 超级大黄蜂 Mk I",
+      "aliases": [
+        "铁砧 F7C-M 超级大黄蜂 Mk I",
+        "F7C-M Mk I"
+      ],
+      "source_key": "vehicle_NameANVL_Hornet_F7CM",
+      "source_value": "铁砧 F7C-M 超级大黄蜂 Mk I",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-f7c-m-super-hornet-mk-ii",
+      "english": "F7C-M Super Hornet Mk II",
+      "display_name": "F7C-M 超级大黄蜂 MK II",
+      "aliases": [
+        "铁砧 F7C-M 超级大黄蜂 MK II",
+        "F7C-M Mk II"
+      ],
+      "source_key": "vehicle_NameANVL_Hornet_F7CM_Mk2",
+      "source_value": "铁砧 F7C-M 超级大黄蜂 MK II",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-f7c-r-hornet-tracker-mk-i",
+      "english": "F7C-R Hornet Tracker Mk I",
+      "display_name": "F7C-R 大黄蜂 追踪者 Mk I",
+      "aliases": [
+        "铁砧 F7C-R 大黄蜂 追踪者 Mk I",
+        "F7C-R Mk I"
+      ],
+      "source_key": "vehicle_NameANVL_Hornet_F7CR",
+      "source_value": "铁砧 F7C-R 大黄蜂 追踪者 Mk I",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-f7c-r-hornet-tracker-mk-ii",
+      "english": "F7C-R Hornet Tracker Mk II",
+      "display_name": "F7C-R 大黄蜂 追踪者 Mk II",
+      "aliases": [
+        "铁砧 F7C-R 大黄蜂 追踪者 Mk II",
+        "F7C-R Mk II"
+      ],
+      "source_key": "vehicle_NameANVL_Hornet_F7CR_Mk2",
+      "source_value": "铁砧 F7C-R 大黄蜂 追踪者 Mk II",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-f7c-s-hornet-ghost-mk-i",
+      "english": "F7C-S Hornet Ghost Mk I",
+      "display_name": "F7C-S 大黄蜂 幽灵 Mk I",
+      "aliases": [
+        "铁砧 F7C-S 大黄蜂 幽灵 Mk I",
+        "F7C-S Mk I"
+      ],
+      "source_key": "vehicle_NameANVL_Hornet_F7CS",
+      "source_value": "铁砧 F7C-S 大黄蜂 幽灵 Mk I",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-f7c-s-hornet-ghost-mk-ii",
+      "english": "F7C-S Hornet Ghost Mk II",
+      "display_name": "F7C-S 大黄蜂 幽灵 Mk II",
+      "aliases": [
+        "铁砧 F7C-S 大黄蜂 幽灵 Mk II",
+        "F7C-S Mk II"
+      ],
+      "source_key": "vehicle_NameANVL_Hornet_F7CS_Mk2",
+      "source_value": "铁砧 F7C-S 大黄蜂 幽灵 Mk II",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-f8c-lightning",
+      "english": "F8C Lightning",
+      "display_name": "F8C 闪电",
+      "aliases": [
+        "铁砧 F8C 闪电",
+        "F8C 闪电"
+      ],
+      "source_key": "vehicle_NameANVL_Lightning_F8C",
+      "source_value": "铁砧 F8C 闪电",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "F8C 闪电",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-f8c-lightning-executive-edition",
+      "english": "F8C Lightning Executive Edition",
+      "display_name": "F8C 闪电 行政版",
+      "aliases": [
+        "铁砧 F8C 闪电 行政版",
+        "F8C 闪电 行政版"
+      ],
+      "source_key": "vehicle_NameANVL_Lightning_F8C_Exec",
+      "source_value": "铁砧 F8C 闪电 行政版",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-fortune",
+      "english": "Fortune",
+      "display_name": "财运",
+      "aliases": [
+        "武藏 财运",
+        "财运"
+      ],
+      "source_key": "vehicle_NameMISC_Fortune",
+      "source_value": "武藏 财运",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-freelancer",
+      "english": "Freelancer",
+      "display_name": "自由枪骑兵",
+      "aliases": [
+        "武藏 自由枪骑兵",
+        "自由枪骑兵"
+      ],
+      "source_key": "vehicle_NameMISC_Freelancer",
+      "source_value": "武藏 自由枪骑兵",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "自由枪骑兵",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-freelancer-dur",
+      "english": "Freelancer DUR",
+      "display_name": "自由枪骑兵 DUR",
+      "aliases": [
+        "武藏 自由枪骑兵 DUR",
+        "自由枪骑兵-DUR"
+      ],
+      "source_key": "vehicle_NameMISC_Freelancer_DUR",
+      "source_value": "武藏 自由枪骑兵 DUR",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "自由枪骑兵 DUR",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-freelancer-max",
+      "english": "Freelancer MAX",
+      "display_name": "自由枪骑兵 MAX",
+      "aliases": [
+        "武藏 自由枪骑兵 MAX",
+        "自由枪骑兵-MAX"
+      ],
+      "source_key": "vehicle_NameMISC_Freelancer_MAX",
+      "source_value": "武藏 自由枪骑兵 MAX",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "自由枪骑兵 MAX",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-freelancer-mis",
+      "english": "Freelancer MIS",
+      "display_name": "自由枪骑兵 MIS",
+      "aliases": [
+        "武藏 自由枪骑兵 MIS",
+        "自由枪骑兵-MIS"
+      ],
+      "source_key": "vehicle_NameMISC_Freelancer_MIS",
+      "source_value": "武藏 自由枪骑兵 MIS",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "自由枪骑兵 MIS",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "mrai-fury",
+      "english": "Fury",
+      "display_name": "狂怒",
+      "aliases": [
+        "未来 狂怒",
+        "狂怒"
+      ],
+      "source_key": "vehicle_NameMisc_Fury",
+      "source_value": "未来 狂怒",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "mrai-fury-lx",
+      "english": "Fury LX",
+      "display_name": "狂怒 LX",
+      "aliases": [
+        "未来 狂怒 LX",
+        "狂怒 LX"
+      ],
+      "source_key": "vehicle_NameMisc_Fury_LX",
+      "source_value": "未来 狂怒 LX",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "mrai-fury-mx",
+      "english": "Fury MX",
+      "display_name": "狂怒 MX",
+      "aliases": [
+        "未来 狂怒 MX",
+        "狂怒 MX"
+      ],
+      "source_key": "vehicle_NameMisc_Fury_Miru",
+      "source_value": "未来 狂怒 MX",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-g12",
+      "english": "G12",
+      "display_name": "G12",
+      "aliases": [
+        "起源 G12",
+        "G12"
+      ],
+      "source_key": "vehicle_NameORIG_G12",
+      "source_value": "起源 G12",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-g12a",
+      "english": "G12a",
+      "display_name": "G12a",
+      "aliases": [
+        "起源 G12a",
+        "G12a"
+      ],
+      "source_key": "vehicle_NameORIG_G12a",
+      "source_value": "起源 G12a",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-g12r",
+      "english": "G12r",
+      "display_name": "G12r",
+      "aliases": [
+        "起源 G12r",
+        "G12r"
+      ],
+      "source_key": "vehicle_NameORIG_G12r",
+      "source_value": "起源 G12r",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-galaxy",
+      "english": "Galaxy",
+      "display_name": "银河",
+      "aliases": [
+        "RSI 银河",
+        "银河"
+      ],
+      "source_key": "vehicle_NameRSI_Galaxy",
+      "source_value": "RSI 银河",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "银河",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "crus-genesis",
+      "english": "Genesis",
+      "display_name": "创世纪 星际客机",
+      "aliases": [
+        "十字军 创世纪 星际客机",
+        "创世纪"
+      ],
+      "source_key": "vehicle_NameCRUS_Starliner",
+      "source_value": "十字军 创世纪 星际客机",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "explicit_class_mapping",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-gladiator",
+      "english": "Gladiator",
+      "display_name": "角斗士",
+      "aliases": [
+        "铁砧 角斗士",
+        "角斗士"
+      ],
+      "source_key": "vehicle_NameANVL_Gladiator",
+      "source_value": "铁砧 角斗士",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "角斗士轰炸机",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-gladius",
+      "english": "Gladius",
+      "display_name": "短剑",
+      "aliases": [
+        "圣盾 短剑",
+        "短剑"
+      ],
+      "source_key": "vehicle_NameAEGS_Gladius",
+      "source_value": "圣盾 短剑",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "角斗士",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-gladius-pirate-edition",
+      "english": "Gladius Pirate Edition",
+      "display_name": "短剑 海盗",
+      "aliases": [
+        "圣盾 短剑 海盗",
+        "短剑 海盗版"
+      ],
+      "source_key": "vehicle_NameAEGS_Gladius_PIR",
+      "source_value": "圣盾 短剑 海盗",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-gladius-valiant",
+      "english": "Gladius Valiant",
+      "display_name": "短剑 勇士",
+      "aliases": [
+        "圣盾 短剑 勇士",
+        "短剑 勇士"
+      ],
+      "source_key": "vehicle_NameAEGS_Gladius_Valiant",
+      "source_value": "圣盾 短剑 勇士",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "espr-glaive",
+      "english": "Glaive",
+      "display_name": "长刀",
+      "aliases": [
+        "埃斯佩里亚 长刀"
+      ],
+      "source_key": "vehicle_NameESPR_Glaive",
+      "source_value": "埃斯佩里亚 长刀",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "explicit_class_mapping",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "战镰",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-golem",
+      "english": "Golem",
+      "display_name": "魔像",
+      "aliases": [
+        "德雷克 魔像",
+        "魔像"
+      ],
+      "source_key": "vehicle_NameDRAK_Golem",
+      "source_value": "德雷克 魔像",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-golem-ox",
+      "english": "Golem OX",
+      "display_name": "魔像 OX",
+      "aliases": [
+        "德雷克 魔像 OX",
+        "魔像 OX"
+      ],
+      "source_key": "vehicle_NameDRAK_Golem_OX",
+      "source_value": "德雷克 魔像 OX",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "mrai-guardian",
+      "english": "Guardian",
+      "display_name": "守护者",
+      "aliases": [
+        "未来 守护者",
+        "守护者"
+      ],
+      "source_key": "vehicle_NameMRAI_Guardian",
+      "source_value": "未来 守护者",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "mrai-guardian-mx",
+      "english": "Guardian MX",
+      "display_name": "守护者 MX",
+      "aliases": [
+        "未来 守护者 MX",
+        "守护者 MX"
+      ],
+      "source_key": "vehicle_NameMRAI_Guardian_MX",
+      "source_value": "未来 守护者 MX",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "mrai-guardian-qi",
+      "english": "Guardian QI",
+      "display_name": "守护者 QI",
+      "aliases": [
+        "未来 守护者 QI",
+        "守护者 QI"
+      ],
+      "source_key": "vehicle_NameMRAI_Guardian_QI",
+      "source_value": "未来 守护者 QI",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-hammerhead",
+      "english": "Hammerhead",
+      "display_name": "锤头鲨",
+      "aliases": [
+        "圣盾 锤头鲨",
+        "锤头鲨"
+      ],
+      "source_key": "vehicle_NameAEGS_Hammerhead",
+      "source_value": "圣盾 锤头鲨",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "锤头鲨",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-hawk",
+      "english": "Hawk",
+      "display_name": "猎鹰",
+      "aliases": [
+        "铁砧 猎鹰",
+        "猎鹰"
+      ],
+      "source_key": "vehicle_NameANVL_Hawk",
+      "source_value": "铁砧 猎鹰",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "鹰",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-herald",
+      "english": "Herald",
+      "display_name": "信使",
+      "aliases": [
+        "德雷克 信使",
+        "信使"
+      ],
+      "source_key": "vehicle_NameDRAK_Herald",
+      "source_value": "德雷克 信使",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "信使",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-hermes",
+      "english": "Hermes",
+      "display_name": "赫尔墨斯",
+      "aliases": [
+        "RSI 赫尔墨斯",
+        "赫尔墨斯"
+      ],
+      "source_key": "vehicle_NameRSI_Hermes",
+      "source_value": "RSI 赫尔墨斯",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "cnou-hoverquad",
+      "english": "HoverQuad",
+      "display_name": "悬浮驷",
+      "aliases": [
+        "联合外域 悬浮驷",
+        "悬浮驷"
+      ],
+      "source_key": "vehicle_NameCNOU_HoverQuad",
+      "source_value": "联合外域 悬浮驷",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-hull-a",
+      "english": "Hull A",
+      "display_name": "货轮 A",
+      "aliases": [
+        "武藏 货轮 A",
+        "货轮 A"
+      ],
+      "source_key": "vehicle_NameMISC_Hull_A",
+      "source_value": "武藏 货轮 A",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "货运船体 A",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-hull-b",
+      "english": "Hull B",
+      "display_name": "货轮 B",
+      "aliases": [
+        "武藏 货轮 B",
+        "货轮 B"
+      ],
+      "source_key": "vehicle_NameMISC_Hull_B",
+      "source_value": "武藏 货轮 B",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "货运船体 B",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-hull-c",
+      "english": "Hull C",
+      "display_name": "货轮 C",
+      "aliases": [
+        "武藏 货轮 C",
+        "货轮 C"
+      ],
+      "source_key": "vehicle_NameMISC_Hull_C",
+      "source_value": "武藏 货轮 C",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "货运船体 C",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-hull-d",
+      "english": "Hull D",
+      "display_name": "货轮 D",
+      "aliases": [
+        "武藏 货轮 D",
+        "货轮 D"
+      ],
+      "source_key": "vehicle_NameMISC_Hull_D",
+      "source_value": "武藏 货轮 D",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "货运船体 D",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-hull-e",
+      "english": "Hull E",
+      "display_name": "货轮 E",
+      "aliases": [
+        "武藏 货轮 E",
+        "货轮 E"
+      ],
+      "source_key": "vehicle_NameMISC_Hull_E",
+      "source_value": "武藏 货轮 E",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "货运船体 E",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-hurricane",
+      "english": "Hurricane",
+      "display_name": "飓风",
+      "aliases": [
+        "铁砧 飓风",
+        "飓风"
+      ],
+      "source_key": "vehicle_NameANVL_Hurricane",
+      "source_value": "铁砧 飓风",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "飓风",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-idris-m",
+      "english": "Idris-M",
+      "display_name": "伊德里斯-M",
+      "aliases": [
+        "圣盾 伊德里斯-M",
+        "伊德里斯-M"
+      ],
+      "source_key": "vehicle_NameAEGS_Idris_M",
+      "source_value": "圣盾 伊德里斯-M",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "伊德里斯 M",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-idris-p",
+      "english": "Idris-P",
+      "display_name": "伊德里斯-P",
+      "aliases": [
+        "圣盾 伊德里斯-P",
+        "伊德里斯-P"
+      ],
+      "source_key": "vehicle_NameAEGS_Idris_P",
+      "source_value": "圣盾 伊德里斯-P",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "伊德里斯 P",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "crus-intrepid",
+      "english": "Intrepid",
+      "display_name": "无畏",
+      "aliases": [
+        "十字军 无畏",
+        "无畏"
+      ],
+      "source_key": "vehicle_NameCRUS_Intrepid",
+      "source_value": "十字军 无畏",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "无畏",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-ironclad",
+      "english": "Ironclad",
+      "display_name": "铁甲",
+      "aliases": [
+        "德雷克 铁甲",
+        "铁甲"
+      ],
+      "source_key": "vehicle_NameDRAK_Ironclad",
+      "source_value": "德雷克 铁甲",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "铁甲舰",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-ironclad-assault",
+      "english": "Ironclad Assault",
+      "display_name": "铁甲 突袭",
+      "aliases": [
+        "德雷克 铁甲 突袭",
+        "铁甲 突袭"
+      ],
+      "source_key": "vehicle_NameDRAK_Ironclad_Assault",
+      "source_value": "德雷克 铁甲 突袭",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "铁甲舰 突击型",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-javelin",
+      "english": "Javelin",
+      "display_name": "标枪",
+      "aliases": [
+        "圣盾 标枪",
+        "标枪"
+      ],
+      "source_key": "vehicle_NameAEGS_Javelin",
+      "source_value": "圣盾 标枪",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "标枪",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "xnaa-khartu-al",
+      "english": "Khartu-Al",
+      "display_name": "卡图",
+      "aliases": [
+        "奥波亚 卡图",
+        "卡图-al"
+      ],
+      "source_key": "vehicle_NameXIAN_Scout",
+      "source_value": "奥波亚 卡图",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-kraken",
+      "english": "Kraken",
+      "display_name": "海妖",
+      "aliases": [
+        "德雷克 海妖",
+        "海妖"
+      ],
+      "source_key": "vehicle_NameDRAK_Kraken",
+      "source_value": "德雷克 海妖",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "海妖",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-kraken-privateer",
+      "english": "Kraken Privateer",
+      "display_name": "海妖 私掠版",
+      "aliases": [
+        "德雷克 海妖 私掠版",
+        "海妖 私掠版"
+      ],
+      "source_key": "vehicle_NameDRAK_Kraken_Privateer",
+      "source_value": "德雷克 海妖 私掠版",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "海妖 私掠者",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "krig-l-21-wolf",
+      "english": "L-21 Wolf",
+      "display_name": "L-21 狼式",
+      "aliases": [
+        "克鲁格 L-21 狼式",
+        "狼式"
+      ],
+      "source_key": "vehicle_NameKRIG_L21_Wolf",
+      "source_value": "克鲁格 L-21 狼式",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "krig-l-22-alpha-wolf",
+      "english": "L-22 Alpha Wolf",
+      "display_name": "L-22 头狼",
+      "aliases": [
+        "克鲁格 L-22 头狼",
+        "头狼"
+      ],
+      "source_key": "vehicle_NameKRIG_L22_Alpha_Wolf",
+      "source_value": "克鲁格 L-22 头狼",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-legionnaire",
+      "english": "Legionnaire",
+      "display_name": "军团兵",
+      "aliases": [
+        "铁砧 军团兵",
+        "军团兵"
+      ],
+      "source_key": "vehicle_NameANVL_Legionnaire",
+      "source_value": "铁砧 军团兵",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-liberator",
+      "english": "Liberator",
+      "display_name": "解放者",
+      "aliases": [
+        "铁砧 解放者",
+        "解放者"
+      ],
+      "source_key": "vehicle_NameANVL_Liberator",
+      "source_value": "铁砧 解放者",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "解放者",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-lynx",
+      "english": "Lynx",
+      "display_name": "天猫座",
+      "aliases": [
+        "RSI 天猫座",
+        "天猫座"
+      ],
+      "source_key": "vehicle_NameRSI_Lynx",
+      "source_value": "RSI 天猫座",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "crus-m2-hercules",
+      "english": "M2 Hercules",
+      "display_name": "大力神 M2 星际运输船",
+      "aliases": [
+        "十字军 大力神 M2 星际运输船",
+        "大力神 M2"
+      ],
+      "source_key": "vehicle_NameCRUS_Starlifter_M2",
+      "source_value": "十字军 大力神 M2 星际运输船",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "M2 大力神",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-m50",
+      "english": "M50",
+      "display_name": "M50 截击机",
+      "aliases": [
+        "起源 M50 截击机",
+        "M50 截击"
+      ],
+      "source_key": "vehicle_NameORIG_m50",
+      "source_value": "起源 M50 截击机",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-m80",
+      "english": "M80",
+      "display_name": "M80",
+      "aliases": [
+        "起源 M80",
+        "M80"
+      ],
+      "source_key": "vehicle_NameORIG_M80",
+      "source_value": "起源 M80",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-mantis",
+      "english": "Mantis",
+      "display_name": "螳螂",
+      "aliases": [
+        "RSI 螳螂",
+        "螳螂"
+      ],
+      "source_key": "vehicle_NameRSI_Mantis",
+      "source_value": "RSI 螳螂",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "螳螂",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "grin-mdc",
+      "english": "MDC",
+      "display_name": "MDC",
+      "aliases": [
+        "灰猫 MDC",
+        "MDC"
+      ],
+      "source_key": "vehicle_NameGrin_MDC",
+      "source_value": "灰猫 MDC",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "banu-merchantman",
+      "english": "Merchantman",
+      "display_name": "商船",
+      "aliases": [
+        "巴努 商船",
+        "巴努商船"
+      ],
+      "source_key": "vehicle_NameBANU_Merchantman",
+      "source_value": "巴努 商船",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "商船",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "crus-mercury-star-runner",
+      "english": "Mercury Star Runner",
+      "display_name": "墨丘利 星际快运船",
+      "aliases": [
+        "十字军 墨丘利 星际快运船",
+        "墨丘利"
+      ],
+      "source_key": "vehicle_NameCRUS_Star_Runner",
+      "source_value": "十字军 墨丘利 星际快运船",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "水星 星际快船",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-meteor",
+      "english": "Meteor",
+      "display_name": "流星",
+      "aliases": [
+        "RSI 流星"
+      ],
+      "source_key": "vehicle_NameRSI_Meteor",
+      "source_value": "RSI 流星",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "argo-mole",
+      "english": "MOLE",
+      "display_name": "鼹鼠",
+      "aliases": [
+        "南船座 鼹鼠",
+        "鼹鼠"
+      ],
+      "source_key": "vehicle_NameARGO_Mole",
+      "source_value": "南船座 鼹鼠",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "鼹鼠",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "argo-moth",
+      "english": "MOTH",
+      "display_name": "飞蛾",
+      "aliases": [
+        "南船座 飞蛾",
+        "飞蛾"
+      ],
+      "source_key": "vehicle_NameARGO_MOTH",
+      "source_value": "南船座 飞蛾",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "argo-mpuv-cargo",
+      "english": "MPUV Cargo",
+      "display_name": "MPUV 货运",
+      "aliases": [
+        "南船座 MPUV 货运",
+        "MPUV 货运"
+      ],
+      "source_key": "vehicle_NameARGO_MPUV",
+      "source_value": "南船座 MPUV 货运",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "MPUV 货运型",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "argo-mpuv-personnel",
+      "english": "MPUV Personnel",
+      "display_name": "MPUV 载人",
+      "aliases": [
+        "南船座 MPUV 载人",
+        "MPUV-载人"
+      ],
+      "source_key": "vehicle_NameARGO_MPUV_Transport",
+      "source_value": "南船座 MPUV 载人",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "MPUV 人员型",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "argo-mpuv-tractor",
+      "english": "MPUV Tractor",
+      "display_name": "MPUV 牵引",
+      "aliases": [
+        "南船座 MPUV 牵引",
+        "MPUV 牵引"
+      ],
+      "source_key": "vehicle_NameARGO_MPUV_Tractor",
+      "source_value": "南船座 MPUV 牵引",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "explicit_class_mapping",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "grin-mtc",
+      "english": "MTC",
+      "display_name": "MTC",
+      "aliases": [
+        "灰猫 MTC",
+        "MTC"
+      ],
+      "source_key": "vehicle_NameGRIN_MTC",
+      "source_value": "灰猫 MTC",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-mule",
+      "english": "Mule",
+      "display_name": "骡",
+      "aliases": [
+        "德雷克 骡",
+        "骡"
+      ],
+      "source_key": "vehicle_NameDRAK_Mule",
+      "source_value": "德雷克 骡",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "cnou-mustang-alpha",
+      "english": "Mustang Alpha",
+      "display_name": "野马 阿尔法",
+      "aliases": [
+        "联合外域 野马 阿尔法",
+        "野马 阿尔法"
+      ],
+      "source_key": "vehicle_NameCNOU_Mustang_Alpha",
+      "source_value": "联合外域 野马 阿尔法",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "野马 阿尔法",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "cnou-mustang-beta",
+      "english": "Mustang Beta",
+      "display_name": "野马 贝塔",
+      "aliases": [
+        "联合外域 野马 贝塔",
+        "野马 贝塔"
+      ],
+      "source_key": "vehicle_NameCNOU_Mustang_Beta",
+      "source_value": "联合外域 野马 贝塔",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "野马 贝塔",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "cnou-mustang-delta",
+      "english": "Mustang Delta",
+      "display_name": "野马 德尔塔",
+      "aliases": [
+        "联合外域 野马 德尔塔",
+        "野马 德尔塔"
+      ],
+      "source_key": "vehicle_NameCNOU_Mustang_Delta",
+      "source_value": "联合外域 野马 德尔塔",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "野马 德尔塔",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "cnou-mustang-gamma",
+      "english": "Mustang Gamma",
+      "display_name": "野马 伽马",
+      "aliases": [
+        "联合外域 野马 伽马",
+        "野马 伽马"
+      ],
+      "source_key": "vehicle_NameCNOU_Mustang_Gamma",
+      "source_value": "联合外域 野马 伽马",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "野马 伽马",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "cnou-mustang-omega",
+      "english": "Mustang Omega",
+      "display_name": "野马 欧米伽",
+      "aliases": [
+        "联合外域 野马 欧米伽",
+        "野马 欧米伽"
+      ],
+      "source_key": "vehicle_NameCNOU_Mustang_Omega",
+      "source_value": "联合外域 野马 欧米伽",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "野马 欧米伽",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-nautilus",
+      "english": "Nautilus",
+      "display_name": "鹦鹉螺",
+      "aliases": [
+        "圣盾 鹦鹉螺",
+        "鹦鹉螺"
+      ],
+      "source_key": "vehicle_NameAEGS_Nautilus",
+      "source_value": "圣盾 鹦鹉螺",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "鹦鹉螺",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "cnou-nomad",
+      "english": "Nomad",
+      "display_name": "游牧者",
+      "aliases": [
+        "联合外域 游牧者",
+        "游牧者"
+      ],
+      "source_key": "vehicle_NameCNOU_Nomad",
+      "source_value": "联合外域 游牧者",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "游牧者",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "tmbl-nova",
+      "english": "Nova",
+      "display_name": "新星",
+      "aliases": [
+        "盾博尔 新星",
+        "新星"
+      ],
+      "source_key": "vehicle_NameTMBL_Nova",
+      "source_value": "盾博尔 新星",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "新星坦克",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "xnaa-nox",
+      "english": "Nox",
+      "display_name": "Nox",
+      "aliases": [
+        "奥波亚 Nox",
+        "NOX"
+      ],
+      "source_key": "vehicle_NameXIAN_Nox",
+      "source_value": "奥波亚 Nox",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "xnaa-nox-kue",
+      "english": "Nox Kue",
+      "display_name": "Nox Kue",
+      "aliases": [
+        "奥波亚 Nox Kue",
+        "Nox kue"
+      ],
+      "source_key": "vehicle_NameXIAN_Nox_Kue",
+      "source_value": "奥波亚 Nox Kue",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-odin",
+      "english": "Odin",
+      "display_name": "奥丁",
+      "aliases": [
+        "铁砧 奥丁",
+        "奥丁"
+      ],
+      "source_key": "vehicle_NameANVL_Odin",
+      "source_value": "铁砧 奥丁",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-odyssey",
+      "english": "Odyssey",
+      "display_name": "奥德赛",
+      "aliases": [
+        "武藏 奥德赛",
+        "奥德赛"
+      ],
+      "source_key": "vehicle_NameMISC_Odyssey",
+      "source_value": "武藏 奥德赛",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "奥德赛",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "krig-p-52-merlin",
+      "english": "P-52 Merlin",
+      "display_name": "P-52 梅林",
+      "aliases": [
+        "克鲁格 P-52 梅林",
+        "P-52"
+      ],
+      "source_key": "vehicle_NameKRIG_P52_Merlin",
+      "source_value": "克鲁格 P-52 梅林",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "krig-p-72-archimedes",
+      "english": "P-72 Archimedes",
+      "display_name": "P-72 阿基米德",
+      "aliases": [
+        "克鲁格 P-72 阿基米德",
+        "P-72"
+      ],
+      "source_key": "vehicle_NameKRIG_P72_Archimedes",
+      "source_value": "克鲁格 P-72 阿基米德",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-paladin",
+      "english": "Paladin",
+      "display_name": "圣骑士",
+      "aliases": [
+        "铁砧 圣骑士",
+        "圣骑士"
+      ],
+      "source_key": "vehicle_nameANVL_Paladin",
+      "source_value": "铁砧 圣骑士",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "圣骑士",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-perseus",
+      "english": "Perseus",
+      "display_name": "英仙座",
+      "aliases": [
+        "RSI 英仙座",
+        "英仙座"
+      ],
+      "source_key": "vehicle_NameRSI_Perseus",
+      "source_value": "RSI 英仙座",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "英仙座",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "cnou-pioneer",
+      "english": "Pioneer",
+      "display_name": "开拓者",
+      "aliases": [
+        "联合外域 开拓者",
+        "开拓者"
+      ],
+      "source_key": "vehicle_NameCNOU_Pioneer",
+      "source_value": "联合外域 开拓者",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "开拓者",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-pitbull",
+      "english": "Pitbull",
+      "display_name": "斗牛犬",
+      "aliases": [
+        "德雷克 斗牛犬",
+        "斗牛犬"
+      ],
+      "source_key": "vehicle_NameDRAK_Pitbull,P",
+      "source_value": "德雷克 斗牛犬",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-polaris",
+      "english": "Polaris",
+      "display_name": "北极星",
+      "aliases": [
+        "RSI 北极星",
+        "北极星"
+      ],
+      "source_key": "vehicle_NameRSI_Polaris",
+      "source_value": "RSI 北极星",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "北极星",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-prospector",
+      "english": "Prospector",
+      "display_name": "勘探者",
+      "aliases": [
+        "武藏 勘探者",
+        "勘探者"
+      ],
+      "source_key": "vehicle_NameMISC_Prospector",
+      "source_value": "武藏 勘探者",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "勘探者",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "espr-prowler",
+      "english": "Prowler",
+      "display_name": "徘徊者",
+      "aliases": [
+        "埃斯佩里亚 徘徊者",
+        "徘徊者"
+      ],
+      "source_key": "vehicle_NameESPR_Prowler",
+      "source_value": "埃斯佩里亚 徘徊者",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "徘徊者",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "espr-prowler-utility",
+      "english": "Prowler Utility",
+      "display_name": "徘徊者 多功能",
+      "aliases": [
+        "埃斯佩里亚 徘徊者 多功能",
+        "徘徊者 多功能"
+      ],
+      "source_key": "vehicle_NameESPR_Prowler_Utility",
+      "source_value": "埃斯佩里亚 徘徊者 多功能",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "grin-ptv",
+      "english": "PTV",
+      "display_name": "PTV",
+      "aliases": [
+        "灰猫 PTV"
+      ],
+      "source_key": "vehicle_NameGRIN_PTV",
+      "source_value": "灰猫 PTV",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "PTV 小车",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "mrai-pulse",
+      "english": "Pulse",
+      "display_name": "脉冲",
+      "aliases": [
+        "未来 脉冲",
+        "脉冲"
+      ],
+      "source_key": "vehicle_NameMRAI_Pulse",
+      "source_value": "未来 脉冲",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "mrai-pulse-lx",
+      "english": "Pulse LX",
+      "display_name": "脉冲 LX",
+      "aliases": [
+        "未来 脉冲 LX",
+        "脉冲 LX"
+      ],
+      "source_key": "vehicle_NameMRAI_Pulse_LX",
+      "source_value": "未来 脉冲 LX",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "argo-raft",
+      "english": "RAFT",
+      "display_name": "木筏",
+      "aliases": [
+        "南船座 木筏",
+        "木筏"
+      ],
+      "source_key": "vehicle_NameARGO_RAFT",
+      "source_value": "南船座 木筏",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "筏",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "gama-railen",
+      "english": "Railen",
+      "display_name": "锐伦",
+      "aliases": [
+        "盖塔克 锐伦",
+        "锐伦"
+      ],
+      "source_key": "vehicle_NameXIAN_Railen",
+      "source_value": "盖塔克 锐伦",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "explicit_class_mapping",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "tmbl-ranger-tr",
+      "english": "Ranger TR",
+      "display_name": "游骑兵 TR",
+      "aliases": [
+        "盾博尔 游骑兵 TR",
+        "游骑兵 TR"
+      ],
+      "source_key": "vehicle_NameTMBL_Ranger_TR",
+      "source_value": "盾博尔 游骑兵 TR",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "mrai-razor",
+      "english": "Razor",
+      "display_name": "剃刀",
+      "aliases": [
+        "未来 剃刀",
+        "剃刀"
+      ],
+      "source_key": "vehicle_NameMISC_Razor",
+      "source_value": "未来 剃刀",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "剃刀",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "mrai-razor-ex",
+      "english": "Razor EX",
+      "display_name": "剃刀 EX",
+      "aliases": [
+        "未来 剃刀 EX",
+        "剃刀 EX"
+      ],
+      "source_key": "vehicle_NameMISC_Razor_EX",
+      "source_value": "未来 剃刀 EX",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "mrai-razor-lx",
+      "english": "Razor LX",
+      "display_name": "剃刀 LX",
+      "aliases": [
+        "未来 剃刀 LX",
+        "剃刀 LX"
+      ],
+      "source_key": "vehicle_NameMISC_Razor_LX",
+      "source_value": "未来 剃刀 LX",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-reclaimer",
+      "english": "Reclaimer",
+      "display_name": "回收者",
+      "aliases": [
+        "圣盾 回收者",
+        "回收者"
+      ],
+      "source_key": "vehicle_NameAEGS_Reclaimer",
+      "source_value": "圣盾 回收者",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "回收者",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-redeemer",
+      "english": "Redeemer",
+      "display_name": "救赎者",
+      "aliases": [
+        "圣盾 救赎者",
+        "救赎者"
+      ],
+      "source_key": "vehicle_NameAEGS_Redeemer",
+      "source_value": "圣盾 救赎者",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "救赎者",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-reliant-kore",
+      "english": "Reliant Kore",
+      "display_name": "信赖 基础",
+      "aliases": [
+        "武藏 信赖 基础",
+        "信赖 基础"
+      ],
+      "source_key": "vehicle_NameMISC_Reliant",
+      "source_value": "武藏 信赖 基础",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "信赖 核心型",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-reliant-mako",
+      "english": "Reliant Mako",
+      "display_name": "信赖 新闻",
+      "aliases": [
+        "武藏 信赖 新闻",
+        "信赖 新闻"
+      ],
+      "source_key": "vehicle_NameMISC_Reliant_Mako",
+      "source_value": "武藏 信赖 新闻",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-reliant-sen",
+      "english": "Reliant Sen",
+      "display_name": "信赖 科考",
+      "aliases": [
+        "武藏 信赖 科考",
+        "信赖 科考"
+      ],
+      "source_key": "vehicle_NameMISC_Reliant_Sen",
+      "source_value": "武藏 信赖 科考",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-reliant-tana",
+      "english": "Reliant Tana",
+      "display_name": "信赖 武装",
+      "aliases": [
+        "武藏 信赖 武装",
+        "信赖 武装"
+      ],
+      "source_key": "vehicle_NameMISC_Reliant_Tana",
+      "source_value": "武藏 信赖 武装",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "信赖 塔娜",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-retaliator",
+      "english": "Retaliator",
+      "display_name": "报复者",
+      "aliases": [
+        "圣盾 报复者",
+        "报复者"
+      ],
+      "source_key": "vehicle_NameAEGS_Retaliator",
+      "source_value": "圣盾 报复者",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "报复者",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "grin-roc",
+      "english": "ROC",
+      "display_name": "ROC",
+      "aliases": [
+        "灰猫 ROC"
+      ],
+      "source_key": "vehicle_NameGRIN_ROC",
+      "source_value": "灰猫 ROC",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "ROC 采矿车",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "grin-roc-ds",
+      "english": "ROC-DS",
+      "display_name": "ROC-双人版",
+      "aliases": [
+        "灰猫 ROC-双人版"
+      ],
+      "source_key": "vehicle_NameGRIN_ROC_DS",
+      "source_value": "灰猫 ROC-双人版",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "ROC-DS 采矿车",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "krig-s-65-stingray",
+      "english": "S-65 Stingray",
+      "display_name": "S-65 刺鳐",
+      "aliases": [
+        "克鲁格 S-65 刺鳐",
+        "刺鳐"
+      ],
+      "source_key": "vehicle_NameKRIG_S65_Stingray",
+      "source_value": "克鲁格 S-65 刺鳐",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-sabre",
+      "english": "Sabre",
+      "display_name": "军刀",
+      "aliases": [
+        "圣盾 军刀",
+        "军刀"
+      ],
+      "source_key": "vehicle_NameAEGS_Sabre",
+      "source_value": "圣盾 军刀",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "军刀",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-sabre-comet",
+      "english": "Sabre Comet",
+      "display_name": "军刀 彗星",
+      "aliases": [
+        "圣盾 军刀 彗星",
+        "军刀 彗星"
+      ],
+      "source_key": "vehicle_NameAEGS_Sabre_Comet",
+      "source_value": "圣盾 军刀 彗星",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-sabre-firebird",
+      "english": "Sabre Firebird",
+      "display_name": "军刀 火鸟",
+      "aliases": [
+        "圣盾 军刀 火鸟",
+        "军刀 火鸟"
+      ],
+      "source_key": "vehicle_NameAEGS_Sabre_Firebird",
+      "source_value": "圣盾 军刀 火鸟",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "军刀 火鸟",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-sabre-peregrine",
+      "english": "Sabre Peregrine",
+      "display_name": "军刀 游隼",
+      "aliases": [
+        "圣盾 军刀 游隼",
+        "军刀 游隼"
+      ],
+      "source_key": "vehicle_NameAEGS_Sabre_Peregrine",
+      "source_value": "圣盾 军刀 游隼",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-sabre-raven",
+      "english": "Sabre Raven",
+      "display_name": "军刀 渡鸦",
+      "aliases": [
+        "圣盾 军刀 渡鸦",
+        "军刀 渡鸦"
+      ],
+      "source_key": "vehicle_NameAEGS_Sabre_Raven",
+      "source_value": "圣盾 军刀 渡鸦",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "军刀 渡鸦",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-sabre-raven-ex",
+      "english": "Sabre Raven EX",
+      "display_name": "军刀 渡鸦 EX",
+      "aliases": [
+        "圣盾 军刀 渡鸦 EX",
+        "军刀 渡鸦 EX"
+      ],
+      "source_key": "vehicle_NameAEGS_Sabre_Raven_EX",
+      "source_value": "圣盾 军刀 渡鸦 EX",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-salvation",
+      "english": "Salvation",
+      "display_name": "拯救",
+      "aliases": [
+        "RSI 拯救",
+        "拯救"
+      ],
+      "source_key": "vehicle_NameRSI_Salvation",
+      "source_value": "RSI 拯救",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "xnaa-san-tok-yai",
+      "english": "San'tok.yāi",
+      "display_name": "桑托起亚",
+      "aliases": [
+        "奥波亚 桑托起亚",
+        "桑托起亚"
+      ],
+      "source_key": "vehicle_NameXNAA_SantokYai",
+      "source_value": "奥波亚 桑托起亚",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "桑托基艾",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-scorpius",
+      "english": "Scorpius",
+      "display_name": "天蝎座",
+      "aliases": [
+        "RSI 天蝎座",
+        "天蝎座"
+      ],
+      "source_key": "vehicle_NameRSI_Scorpius",
+      "source_value": "RSI 天蝎座",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "天蝎座",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-scorpius-antares",
+      "english": "Scorpius Antares",
+      "display_name": "天蝎座 蝎心",
+      "aliases": [
+        "RSI 天蝎座 蝎心",
+        "天蝎座 蝎心"
+      ],
+      "source_key": "vehicle_NameRSI_Scorpius_Antares",
+      "source_value": "RSI 天蝎座 蝎心",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "天蝎座 心宿二",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "vncl-scythe",
+      "english": "Scythe",
+      "display_name": "死镰",
+      "aliases": [
+        "剜度 死镰"
+      ],
+      "source_key": "vehicle_NameVNCL_Scythe",
+      "source_value": "剜度 死镰",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "镰刀",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "grey-shiv",
+      "english": "Shiv",
+      "display_name": "锈刃",
+      "aliases": [
+        "格雷 锈刃",
+        "锈刃"
+      ],
+      "source_key": "vehicle_NameGLSN_Shiv",
+      "source_value": "格雷 锈刃",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-skylark",
+      "english": "Skylark",
+      "display_name": "云雀",
+      "aliases": [
+        "RSI 云雀",
+        "云雀"
+      ],
+      "source_key": "vehicle_NameRSI_Skylark",
+      "source_value": "RSI 云雀",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-spartan",
+      "english": "Spartan",
+      "display_name": "斯巴达",
+      "aliases": [
+        "铁砧 斯巴达",
+        "斯巴达"
+      ],
+      "source_key": "vehicle_NameANVL_Spartan",
+      "source_value": "铁砧 斯巴达",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "斯巴达",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "argo-srv",
+      "english": "SRV",
+      "display_name": "SRV",
+      "aliases": [
+        "南船座 SRV",
+        "SRV"
+      ],
+      "source_key": "vehicle_NameARGO_SRV",
+      "source_value": "南船座 SRV",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "拖船 SRV",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-starfarer",
+      "english": "Starfarer",
+      "display_name": "星际远航者",
+      "aliases": [
+        "武藏 星际远航者",
+        "星际远航者"
+      ],
+      "source_key": "vehicle_NameMISC_Starfarer",
+      "source_value": "武藏 星际远航者",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "星际远航者",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-starfarer-gemini",
+      "english": "Starfarer Gemini",
+      "display_name": "星际远航者 双子座",
+      "aliases": [
+        "武藏 星际远航者 双子座",
+        "星际远航者 双子座"
+      ],
+      "source_key": "vehicle_NameMISC_Starfarer_Gemini",
+      "source_value": "武藏 星际远航者 双子座",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "星际远航者 双子星",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-starlancer-max",
+      "english": "Starlancer MAX",
+      "display_name": "星际枪骑兵 MAX",
+      "aliases": [
+        "武藏 星际枪骑兵 MAX",
+        "星际枪骑兵 MAX"
+      ],
+      "source_key": "vehicle_nameMISC_Starlancer_MAX",
+      "source_value": "武藏 星际枪骑兵 MAX",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "星际枪骑兵 MAX",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-starlancer-tac",
+      "english": "Starlancer TAC",
+      "display_name": "星际枪骑兵 TAC",
+      "aliases": [
+        "武藏 星际枪骑兵 TAC",
+        "星际枪骑兵 TAC"
+      ],
+      "source_key": "vehicle_nameMISC_Starlancer_TAC",
+      "source_value": "武藏 星际枪骑兵 TAC",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "星际枪骑兵 TAC",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "misc-starlite",
+      "english": "Starlite",
+      "display_name": "星光",
+      "aliases": [
+        "武藏 星光",
+        "星光"
+      ],
+      "source_key": "vehicle_NameMISC_Starlite",
+      "source_value": "武藏 星光",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "espr-stinger",
+      "english": "Stinger",
+      "display_name": "毒刺",
+      "aliases": [
+        "埃斯佩里亚 毒刺",
+        "毒刺"
+      ],
+      "source_key": "vehicle_NameESPR_Stinger",
+      "source_value": "埃斯佩里亚 毒刺",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "explicit_class_mapping",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "tmbl-storm",
+      "english": "Storm",
+      "display_name": "风暴",
+      "aliases": [
+        "盾博尔 风暴",
+        "风暴"
+      ],
+      "source_key": "vehicle_NameTMBL_Storm",
+      "source_value": "盾博尔 风暴",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "tmbl-storm-aa",
+      "english": "Storm AA",
+      "display_name": "风暴 AA",
+      "aliases": [
+        "盾博尔 风暴 AA",
+        "风暴 AA"
+      ],
+      "source_key": "vehicle_NameTMBL_Storm_AA",
+      "source_value": "盾博尔 风暴 AA",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "grin-stv",
+      "english": "STV",
+      "display_name": "STV",
+      "aliases": [
+        "灰猫 STV"
+      ],
+      "source_key": "vehicle_NameGRIN_STV",
+      "source_value": "灰猫 STV",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "STV 越野车",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "gama-syulen",
+      "english": "Syulen",
+      "display_name": "速伦",
+      "aliases": [
+        "盖塔克 速伦",
+        "速伦"
+      ],
+      "source_key": "vehicle_NameGAMA_Syulen",
+      "source_value": "盖塔克 速伦",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "苏伦",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "espr-talon",
+      "english": "Talon",
+      "display_name": "利爪",
+      "aliases": [
+        "埃斯佩里亚 利爪",
+        "利爪"
+      ],
+      "source_key": "vehicle_NameESPR_Talon",
+      "source_value": "埃斯佩里亚 利爪",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "利爪",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "espr-talon-shrike",
+      "english": "Talon Shrike",
+      "display_name": "利爪 伯劳",
+      "aliases": [
+        "埃斯佩里亚 利爪 伯劳",
+        "利爪 伯劳"
+      ],
+      "source_key": "vehicle_NameESPR_Talon_Shrike",
+      "source_value": "埃斯佩里亚 利爪 伯劳",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "利爪 伯劳",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-terrapin",
+      "english": "Terrapin",
+      "display_name": "水龟",
+      "aliases": [
+        "铁砧 水龟",
+        "水龟"
+      ],
+      "source_key": "vehicle_NameANVL_Terrapin",
+      "source_value": "铁砧 水龟",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "水龟",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-terrapin-medic",
+      "english": "Terrapin Medic",
+      "display_name": "水龟 医疗",
+      "aliases": [
+        "铁砧 水龟 医疗",
+        "水龟 医疗"
+      ],
+      "source_key": "vehicle_NameANVL_Terrapin_Medic",
+      "source_value": "铁砧 水龟 医疗",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-tiburon",
+      "english": "Tiburon",
+      "display_name": "狂鲨",
+      "aliases": [
+        "圣盾 狂鲨",
+        "狂鲨",
+        "激光鲨"
+      ],
+      "source_key": "vehicle_NameAEGS_Tiburon",
+      "source_value": "圣盾 狂鲨",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": [],
+      "alias_sources": [
+        {
+          "name": "激光鲨",
+          "source_url": "https://support.citizenwiki.cn/d/857-480-tiburon-yi-ci-ping-piao-zai-ju-kuang-sha",
+          "attribution": "星际公民中文百科支持服务社区贡献者",
+          "retrieved_at": "2026-10-21",
+          "note": "社区讨论将 Tiburon 与激光鲨明确对应"
+        }
+      ]
+    },
+    {
+      "ship_id": "gama-tyilui",
+      "english": "Tyilui",
+      "display_name": "缇律",
+      "aliases": [
+        "盖塔克 缇律",
+        "缇律"
+      ],
+      "source_key": "vehicle_NameGAMA_Tyilui",
+      "source_value": "盖塔克 缇律",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-ursa",
+      "english": "Ursa",
+      "display_name": "大熊座",
+      "aliases": [
+        "RSI 大熊座",
+        "大熊座"
+      ],
+      "source_key": "vehicle_NameRSI_Ursa_Rover",
+      "source_value": "RSI 大熊座",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "大熊座漫游车",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-ursa-fortuna",
+      "english": "Ursa Fortuna",
+      "display_name": "大熊座 福尔图娜",
+      "aliases": [
+        "RSI 大熊座 福尔图娜",
+        "大熊座 福尔图娜"
+      ],
+      "source_key": "vehicle_NameRSI_Ursa_Rover_Emerald",
+      "source_value": "RSI 大熊座 福尔图娜",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-ursa-medivac",
+      "english": "Ursa Medivac",
+      "display_name": "大熊座 医疗",
+      "aliases": [
+        "RSI 大熊座 医疗",
+        "大熊座 医疗"
+      ],
+      "source_key": "vehicle_NameRSI_URSA_Medivac",
+      "source_value": "RSI 大熊座 医疗",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "大熊座医疗车",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "grin-utv",
+      "english": "UTV",
+      "display_name": "UTV",
+      "aliases": [
+        "灰猫 UTV",
+        "UTV"
+      ],
+      "source_key": "Vehicle_NameGRIN_UTV",
+      "source_value": "灰猫 UTV",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "anvl-valkyrie",
+      "english": "Valkyrie",
+      "display_name": "女武神",
+      "aliases": [
+        "铁砧 女武神",
+        "女武神"
+      ],
+      "source_key": "vehicle_NameANVL_Valkyrie",
+      "source_value": "铁砧 女武神",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "女武神",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-vanguard-harbinger",
+      "english": "Vanguard Harbinger",
+      "display_name": "先锋 先驱",
+      "aliases": [
+        "圣盾 先锋 先驱",
+        "先锋 先驱"
+      ],
+      "source_key": "vehicle_NameAEGS_Vanguard_Harbinger",
+      "source_value": "圣盾 先锋 先驱",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "先锋 先驱",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-vanguard-hoplite",
+      "english": "Vanguard Hoplite",
+      "display_name": "先锋 重装兵",
+      "aliases": [
+        "圣盾 先锋 重装兵",
+        "先锋 重装兵"
+      ],
+      "source_key": "vehicle_NameAEGS_Vanguard_Hoplite",
+      "source_value": "圣盾 先锋 重装兵",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "先锋 重装步兵",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-vanguard-sentinel",
+      "english": "Vanguard Sentinel",
+      "display_name": "先锋 哨兵",
+      "aliases": [
+        "圣盾 先锋 哨兵",
+        "先锋 哨兵"
+      ],
+      "source_key": "vehicle_NameAEGS_Vanguard_Sentinel",
+      "source_value": "圣盾 先锋 哨兵",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "先锋 哨兵",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-vanguard-warden",
+      "english": "Vanguard Warden",
+      "display_name": "先锋 典狱长",
+      "aliases": [
+        "圣盾 先锋 典狱长",
+        "先锋 典狱长"
+      ],
+      "source_key": "vehicle_NameAEGS_Vanguard",
+      "source_value": "圣盾 先锋 典狱长",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "先锋 守卫",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "aegs-vulcan",
+      "english": "Vulcan",
+      "display_name": "火神",
+      "aliases": [
+        "圣盾 火神",
+        "火神"
+      ],
+      "source_key": "vehicle_NameAEGS_Vulcan",
+      "source_value": "圣盾 火神",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "normalized_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "火神",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "drak-vulture",
+      "english": "Vulture",
+      "display_name": "秃鹫",
+      "aliases": [
+        "德雷克 秃鹫",
+        "秃鹫"
+      ],
+      "source_key": "vehicle_NameDRAK_Vulture",
+      "source_value": "德雷克 秃鹫",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "秃鹫",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-x1",
+      "english": "X1",
+      "display_name": "X1",
+      "aliases": [
+        "起源 X1",
+        "X1"
+      ],
+      "source_key": "vehicle_NameORIG_X1",
+      "source_value": "起源 X1",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-x1-force",
+      "english": "X1 Force",
+      "display_name": "X1 武装",
+      "aliases": [
+        "起源 X1 武装",
+        "X1 武装"
+      ],
+      "source_key": "vehicle_NameORIG_X1_Force",
+      "source_value": "起源 X1 武装",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "orig-x1-velocity",
+      "english": "X1 Velocity",
+      "display_name": "X1 竞速",
+      "aliases": [
+        "起源 X1 竞速",
+        "X1 竞速"
+      ],
+      "source_key": "vehicle_NameORIG_X1_Velocity",
+      "source_value": "起源 X1 竞速",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-zeus-mk-ii-cl",
+      "english": "Zeus Mk II CL",
+      "display_name": "宙斯 MK II CL",
+      "aliases": [
+        "RSI 宙斯 MK II CL",
+        "宙斯 Mk II CL"
+      ],
+      "source_key": "vehicle_NameRSI_Zeus_CL",
+      "source_value": "RSI 宙斯 MK II CL",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "宙斯 Mk II CL",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-zeus-mk-ii-es",
+      "english": "Zeus Mk II ES",
+      "display_name": "宙斯 MK II ES",
+      "aliases": [
+        "RSI 宙斯 MK II ES",
+        "宙斯 Mk II ES"
+      ],
+      "source_key": "vehicle_NameRSI_Zeus_ES",
+      "source_value": "RSI 宙斯 MK II ES",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "exact_class_key",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "宙斯 Mk II ES",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-zeus-mk-ii-mr",
+      "english": "Zeus Mk II MR",
+      "display_name": "宙斯 MK II MR",
+      "aliases": [
+        "RSI 宙斯 MK II MR",
+        "宙斯 Mk II MR"
+      ],
+      "source_key": "vehicle_NameRSI_Zeus_MR",
+      "source_value": "RSI 宙斯 MK II MR",
+      "source_url": "https://github.com/StarCitizenToolBox/LocalizationData/blob/53ef91ca03c6f9f02cd490fb54166572c9a38b3f/chinese_(simplified)/global.ini",
+      "source_commit": "53ef91ca03c6f9f02cd490fb54166572c9a38b3f",
+      "match_method": "explicit_class_mapping",
+      "retrieved_at": "2026-10-21",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "星际公民汉化组 / StarCitizenToolBox LocalizationData",
+      "previous_seed_name": "宙斯 Mk II MR",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "rsi-orion",
+      "english": "Orion",
+      "display_name": "猎户座",
+      "aliases": [
+        "猎户座"
+      ],
+      "source_value": "猎户座",
+      "source_key": "page_title",
+      "source_url": "https://citizenwiki.cn/Orion",
+      "attribution": "星际公民中文百科贡献者",
+      "license": "CC BY-SA（参见来源页面）",
+      "retrieved_at": "2026-10-21",
+      "match_method": "wiki_english_name_and_variant",
+      "previous_seed_name": "猎户座",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "tmbl-ranger-rc",
+      "english": "Ranger RC",
+      "display_name": "游骑兵 RC",
+      "aliases": [
+        "游骑兵 RC"
+      ],
+      "source_value": "游骑兵 RC",
+      "source_key": "page_title",
+      "source_url": "https://citizenwiki.cn/Ranger_RC",
+      "attribution": "星际公民中文百科贡献者",
+      "license": "CC BY-SA（参见来源页面）",
+      "retrieved_at": "2026-10-21",
+      "match_method": "wiki_english_name_and_variant",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    },
+    {
+      "ship_id": "tmbl-ranger-cv",
+      "english": "Ranger CV",
+      "display_name": "游骑兵 CV",
+      "aliases": [
+        "游骑兵 CV"
+      ],
+      "source_value": "游骑兵 CV",
+      "source_key": "variants_table",
+      "source_url": "https://citizenwiki.cn/Ranger_RC",
+      "attribution": "星际公民中文百科贡献者",
+      "license": "CC BY-SA（参见来源页面）",
+      "retrieved_at": "2026-10-21",
+      "match_method": "wiki_english_name_and_variant",
+      "previous_seed_name": "",
+      "previous_seed_aliases": []
+    }
+  ]
+}

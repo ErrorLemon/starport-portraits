@@ -1,0 +1,249 @@
+﻿id,型号,官网详情长度m,官网矩阵长度m,采用长度m,相对100米船长度,依据,俯视参考跨度px,俯视像素每米,官网差异轴,注意事项
+orig-100i,100i,19.3,19.0,19.3,0.193,rsi_detail_structured,1000,51.81347150259067,"length,width,height",official_values_disagree
+orig-125a,125a,19.3,19.0,19.3,0.193,rsi_detail_structured,1000,51.81347150259067,"length,width,height",official_values_disagree
+orig-135c,135c,19.3,19.0,19.3,0.193,rsi_detail_structured,1000,51.81347150259067,"length,width,height",official_values_disagree
+orig-300i,300i,27.0,27.0,27.0,0.27,rsi_detail_structured,1000,37.03703703703704,,
+orig-315p,315p,27.0,27.0,27.0,0.27,rsi_detail_structured,1000,37.03703703703704,,
+orig-325a,325a,27.0,27.5,27.0,0.27,rsi_detail_structured,1000,37.03703703703704,length,official_values_disagree
+orig-350r,350r,25.0,27.0,25.0,0.25,rsi_detail_structured,1000,40.0,length,official_values_disagree
+orig-400i,400i,60.0,56.0,60.0,0.6,rsi_detail_structured,1000,16.666666666666668,length,official_values_disagree
+orig-600i-executive-edition,600i Executive-Edition,,,91.5,0.915,wiki_game_data,1000,10.92896174863388,,source_image_shared
+orig-600i-explorer,600i Explorer,91.5,91.5,91.5,0.915,rsi_detail_structured,1000,10.92896174863388,,
+orig-600i-touring,600i Touring,91.5,91.5,91.5,0.915,rsi_detail_structured,1000,10.92896174863388,,source_image_shared
+orig-85x,85X,13.0,13.5,13.0,0.13,rsi_detail_structured,1000,76.92307692307692,"length,width,height",official_values_disagree
+orig-890-jump,890 Jump,205.0,210.0,205.0,2.05,rsi_detail_structured,1000,4.878048780487805,"length,width,height",official_values_disagree
+crus-a1-spirit,A1 Spirit,47.5,44.0,47.5,0.475,rsi_detail_structured,1000,21.05263157894737,"length,width",official_values_disagree
+crus-a2-hercules,A2 Hercules,94.0,70.0,94.0,0.94,rsi_detail_structured,1000,10.638297872340425,"length,width",official_values_disagree
+rsi-apollo-medivac,Apollo Medivac,65.0,54.0,65.0,0.65,rsi_detail_structured,1000,15.384615384615385,"length,width",official_values_disagree
+rsi-apollo-triage,Apollo Triage,65.0,54.0,65.0,0.65,rsi_detail_structured,1000,15.384615384615385,"length,width",official_values_disagree
+crus-ares-inferno,Ares Inferno,27.2,27.0,27.2,0.272,rsi_detail_structured,891,32.75735294117647,height,official_values_disagree
+crus-ares-ion,Ares Ion,27.2,27.0,27.2,0.272,rsi_detail_structured,887,32.61029411764706,height,official_values_disagree
+rsi-arrastra,Arrastra,124.0,124.0,124.0,1.24,rsi_detail_structured,1000,8.064516129032258,,
+anvl-arrow,Arrow,16.0,17.25,16.0,0.16,rsi_detail_structured,1000,62.5,"length,width,height",official_values_disagree
+anvl-asgard,Asgard,48.7,48.0,48.7,0.48700000000000004,rsi_detail_structured,1000,20.533880903490758,"length,width,height",official_values_disagree
+argo-atls,ATLS,1.8,1.8,1.8,0.018000000000000002,rsi_detail_structured,1000,555.5555555555555,,pose_or_extent_ratio_mismatch
+argo-atls-geo,ATLS GEO,1.8,1.8,1.8,0.018000000000000002,rsi_detail_structured,1000,555.5555555555555,,pose_or_extent_ratio_mismatch
+argo-atls-ikti-akuma,ATLS IKTI Akuma,1.8,1.8,1.8,0.018000000000000002,rsi_detail_structured,,,,
+rsi-aurora-mk-i-cl,Aurora Mk I CL,19.0,19.0,19.0,0.19,rsi_detail_structured,1000,52.63157894736842,"width,height","official_values_disagree,source_image_shared"
+rsi-aurora-mk-i-es,Aurora Mk I ES,19.0,19.0,19.0,0.19,rsi_detail_structured,1000,52.63157894736842,,source_image_shared
+rsi-aurora-mk-ii,Aurora Mk II,27.5,27.4,27.5,0.275,rsi_detail_structured,855,31.09090909090909,"width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+rsi-aurora-mk-i-ln,Aurora Mk I LN,19.0,19.0,19.0,0.19,rsi_detail_structured,1000,52.63157894736842,,source_image_shared
+rsi-aurora-mk-i-lx,Aurora Mk I LX,19.0,19.0,19.0,0.19,rsi_detail_structured,1000,52.63157894736842,,source_image_shared
+rsi-aurora-mk-i-mr,Aurora Mk I MR,19.0,19.0,19.0,0.19,rsi_detail_structured,1000,52.63157894736842,,source_image_shared
+rsi-aurora-mk-i-se,Aurora Mk I SE,18.5,19.0,18.5,0.185,rsi_detail_structured,1000,54.054054054054056,"length,width,height",official_values_disagree
+aegs-avenger-stalker,Avenger Stalker,22.5,20.0,22.5,0.225,rsi_detail_structured,1000,44.44444444444444,"length,width,height",official_values_disagree
+aegs-avenger-titan,Avenger Titan,22.5,20.0,22.5,0.225,rsi_detail_structured,1000,44.44444444444444,"length,width,height","official_values_disagree,source_image_shared"
+aegs-avenger-titan-renegade,Avenger Titan Renegade,22.5,20.0,22.5,0.225,rsi_detail_structured,1000,44.44444444444444,"length,width,height","official_values_disagree,source_image_shared"
+aegs-avenger-warlock,Avenger Warlock,22.5,20.0,22.5,0.225,rsi_detail_structured,1000,44.44444444444444,"length,width,height","official_values_disagree,source_image_shared"
+anvl-ballista,Ballista,17.0,17.0,17.0,0.17,rsi_detail_structured,1000,58.8235294117647,,
+grey-basher,Basher,13.7,13.7,13.7,0.13699999999999998,rsi_detail_structured,1000,72.99270072992701,,
+rsi-bengal,Bengal,,,985.45,9.8545,fleetyards,1000,1.0147648282510529,,
+espr-blade,Blade,21.0,20.5,21.0,0.21,rsi_detail_structured,970,46.19047619047619,"length,width",official_values_disagree
+drak-buccaneer,Buccaneer,15.0,15.25,15.0,0.15,rsi_detail_structured,912,60.8,"length,width,height",official_values_disagree
+crus-c1-spirit,C1 Spirit,47.5,44.0,47.5,0.475,rsi_detail_structured,1000,21.05263157894737,"length,width",official_values_disagree
+crus-c2-hercules,C2 Hercules,94.0,70.0,94.0,0.94,rsi_detail_structured,1000,10.638297872340425,"length,width",official_values_disagree
+anvl-c8-pisces,C8 Pisces,12.0,16.0,12.0,0.12,rsi_detail_structured,1000,83.33333333333333,"length,width,height","official_values_disagree,source_image_shared"
+anvl-c8r-pisces,C8R Pisces,13.0,16.0,13.0,0.13,rsi_detail_structured,1000,76.92307692307692,"length,width,height","official_values_disagree,source_image_shared"
+anvl-c8x-pisces-expedition,C8X Pisces Expedition,13.0,16.0,13.0,0.13,rsi_detail_structured,1000,76.92307692307692,"length,width,height",official_values_disagree
+anvl-carrack,Carrack,126.5,126.0,126.5,1.265,rsi_detail_structured,1000,7.905138339920948,width,official_values_disagree
+drak-caterpillar,Caterpillar,111.5,13.4,111.5,1.115,rsi_detail_structured,1000,8.968609865470851,"length,width,height",official_values_disagree
+anvl-centurion,Centurion,17.0,17.0,17.0,0.17,rsi_detail_structured,1000,58.8235294117647,,
+drak-clipper,Clipper,26.5,26.5,26.5,0.265,rsi_detail_structured,545,20.566037735849058,,pose_or_extent_ratio_mismatch
+rsi-constellation-mk-iv-andromeda,Constellation Mk IV Andromeda,61.0,62.0,61.0,0.61,rsi_detail_structured,1000,16.39344262295082,"length,width,height",official_values_disagree
+rsi-constellation-mk-iv-aquila,Constellation Mk IV Aquila,61.0,62.0,61.0,0.61,rsi_detail_structured,1000,16.39344262295082,"length,width,height",official_values_disagree
+rsi-constellation-mk-iv-phoenix,Constellation Mk IV Phoenix,61.0,62.0,61.0,0.61,rsi_detail_structured,1000,16.39344262295082,"length,width,height",official_values_disagree
+rsi-constellation-mk-iv-taurus,Constellation Mk IV Taurus,61.0,69.0,61.0,0.61,rsi_detail_structured,1000,16.39344262295082,"length,width,height",official_values_disagree
+rsi-constellation-mk-v-centaurus,Constellation Mk V Centaurus,82.5,82.5,82.5,0.825,rsi_detail_structured,1000,12.121212121212121,,
+drak-corsair,Corsair,55.0,53.0,55.0,0.55,rsi_detail_structured,843,15.327272727272728,"length,width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+anvl-crucible,Crucible,90.0,90.0,90.0,0.9,rsi_detail_structured,1000,11.11111111111111,,pose_or_extent_ratio_mismatch
+argo-csv-sm,CSV-SM,5.4,6.0,5.4,0.054000000000000006,rsi_detail_structured,1000,185.18518518518516,"length,width,height",official_values_disagree
+drak-cutlass-black,Cutlass Black,29.0,37.5,29.0,0.29,rsi_detail_structured,1000,34.48275862068966,"length,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+drak-cutlass-blue,Cutlass Blue,36.0,37.5,36.0,0.36,rsi_detail_structured,1000,27.77777777777778,"length,width,height",official_values_disagree
+drak-cutlass-red,Cutlass Red,36.0,37.5,36.0,0.36,rsi_detail_structured,1000,27.77777777777778,"length,width,height",official_values_disagree
+drak-cutlass-steel,Cutlass Steel,36.0,37.5,36.0,0.36,rsi_detail_structured,1000,27.77777777777778,"length,height",official_values_disagree
+drak-cutter,Cutter,20.0,20.0,20.0,0.2,rsi_detail_structured,1000,50.0,width,official_values_disagree
+drak-cutter-rambler,Cutter Rambler,20.0,20.0,20.0,0.2,rsi_detail_structured,1000,50.0,width,official_values_disagree
+drak-cutter-scout,Cutter Scout,20.0,20.0,20.0,0.2,rsi_detail_structured,1000,50.0,width,official_values_disagree
+tmbl-cyclone,Cyclone,6.0,6.0,6.0,0.06,rsi_detail_structured,1000,166.66666666666666,"width,height",official_values_disagree
+tmbl-cyclone-aa,Cyclone AA,6.0,6.0,6.0,0.06,rsi_detail_structured,1000,166.66666666666666,"width,height",official_values_disagree
+tmbl-cyclone-mt,Cyclone MT,6.0,6.0,6.0,0.06,rsi_detail_structured,1000,166.66666666666666,"width,height",official_values_disagree
+tmbl-cyclone-rc,Cyclone RC,6.0,6.0,6.0,0.06,rsi_detail_structured,1000,166.66666666666666,"width,height",official_values_disagree
+tmbl-cyclone-rn,Cyclone RN,6.0,6.0,6.0,0.06,rsi_detail_structured,1000,166.66666666666666,"width,height",official_values_disagree
+tmbl-cyclone-tr,Cyclone TR,6.0,6.0,6.0,0.06,rsi_detail_structured,1000,166.66666666666666,"width,height",official_values_disagree
+banu-defender,Defender,25.5,24.5,25.5,0.255,rsi_detail_structured,1000,39.21568627450981,"length,width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+drak-dragonfly-black,Dragonfly Black,6.0,7.0,6.0,0.06,rsi_detail_structured,1000,166.66666666666666,"length,width,height","official_values_disagree,source_image_shared,pose_or_extent_ratio_mismatch"
+drak-dragonfly-starkitten-edition,Dragonfly Starkitten Edition,,,7,0.07,wiki_game_data,1000,142.85714285714286,,source_image_shared
+drak-dragonfly-yellowjacket,Dragonfly Yellowjacket,8.0,7.0,8.0,0.08,rsi_detail_structured,1000,125.0,"length,width,height","official_values_disagree,source_image_shared"
+crus-e1-spirit,E1 Spirit,46.5,44.0,46.5,0.465,rsi_detail_structured,1000,21.50537634408602,"length,width",official_values_disagree
+aegs-eclipse,Eclipse,20.5,24.5,20.5,0.205,rsi_detail_structured,555,27.073170731707318,"length,width,height",official_values_disagree
+misc-endeavor,Endeavor,200.0,200.0,200.0,2.0,rsi_detail_structured,1000,5.0,,
+misc-expanse,Expanse,35.5,35.5,35.5,0.355,rsi_detail_structured,1000,28.169014084507044,,
+anvl-f7a-hornet-mk-i,F7A Hornet Mk I,22.5,28.25,22.5,0.225,rsi_detail_structured,1000,44.44444444444444,"length,width,height","official_values_disagree,source_image_shared"
+anvl-f7a-hornet-mk-ii,F7A Hornet Mk II,22.5,22.5,22.5,0.225,rsi_detail_structured,1000,44.44444444444444,,
+anvl-f7c-hornet-mk-i,F7C Hornet Mk I,22.5,28.25,22.5,0.225,rsi_detail_structured,1000,44.44444444444444,"length,width,height","official_values_disagree,source_image_shared"
+anvl-f7c-hornet-mk-ii,F7C Hornet Mk II,22.2,22.5,22.2,0.222,rsi_detail_structured,1000,45.04504504504504,"length,height",official_values_disagree
+anvl-f7c-hornet-wildfire-mk-i,F7C Hornet Wildfire Mk I,22.5,28.25,22.5,0.225,rsi_detail_structured,1000,44.44444444444444,"length,width,height",official_values_disagree
+anvl-f7c-m-super-hornet-heartseeker-mk-i,F7C-M Super Hornet Heartseeker Mk I,25.5,28.25,25.5,0.255,rsi_detail_structured,992,38.90196078431372,"length,width,height","official_values_disagree,source_image_shared"
+anvl-f7c-m-super-hornet-mk-i,F7C-M Super Hornet Mk I,25.5,28.25,25.5,0.255,rsi_detail_structured,992,38.90196078431372,"length,width,height","official_values_disagree,source_image_shared"
+anvl-f7c-m-super-hornet-mk-ii,F7C-M Super Hornet Mk II,24.0,24.0,24.0,0.24,rsi_detail_structured,987,41.125,width,"official_values_disagree,pose_or_extent_ratio_mismatch"
+anvl-f7c-r-hornet-tracker-mk-i,F7C-R Hornet Tracker Mk I,22.5,28.25,22.5,0.225,rsi_detail_structured,1000,44.44444444444444,"length,width,height",official_values_disagree
+anvl-f7c-r-hornet-tracker-mk-ii,F7C-R Hornet Tracker Mk II,22.5,22.5,22.5,0.225,rsi_detail_structured,1000,44.44444444444444,"width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+anvl-f7c-s-hornet-ghost-mk-i,F7C-S Hornet Ghost Mk I,22.5,28.25,22.5,0.225,rsi_detail_structured,1000,44.44444444444444,"length,width,height",official_values_disagree
+anvl-f7c-s-hornet-ghost-mk-ii,F7C-S Hornet Ghost Mk II,22.5,22.5,22.5,0.225,rsi_detail_structured,1000,44.44444444444444,"width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+anvl-f8c-lightning,F8C Lightning,25.0,26.0,25.0,0.25,rsi_detail_structured,948,37.92,"length,width,height",official_values_disagree
+anvl-f8c-lightning-executive-edition,F8C Lightning Executive Edition,25.0,26.0,25.0,0.25,rsi_detail_structured,948,37.92,"length,width,height",official_values_disagree
+misc-fortune,Fortune,26.0,26.5,26.0,0.26,rsi_detail_structured,1000,38.46153846153846,"length,width,height",official_values_disagree
+misc-freelancer,Freelancer,38.0,38.0,38.0,0.38,rsi_detail_structured,1000,26.31578947368421,,
+misc-freelancer-dur,Freelancer DUR,38.0,38.0,38.0,0.38,rsi_detail_structured,1000,26.31578947368421,,
+misc-freelancer-max,Freelancer MAX,38.0,38.0,38.0,0.38,rsi_detail_structured,1000,26.31578947368421,width,official_values_disagree
+misc-freelancer-mis,Freelancer MIS,38.0,38.0,38.0,0.38,rsi_detail_structured,1000,26.31578947368421,,
+mrai-fury,Fury,7.0,7.0,7.0,0.07,rsi_detail_structured,1000,142.85714285714286,,
+mrai-fury-lx,Fury LX,7.0,7.0,7.0,0.07,rsi_detail_structured,1000,142.85714285714286,,pose_or_extent_ratio_mismatch
+mrai-fury-mx,Fury MX,7.0,7.0,7.0,0.07,rsi_detail_structured,1000,142.85714285714286,,
+orig-g12,G12,7.2,7.2,7.2,0.07200000000000001,rsi_detail_structured,1000,138.88888888888889,,
+orig-g12a,G12a,7.2,7.2,7.2,0.07200000000000001,rsi_detail_structured,1000,138.88888888888889,,
+orig-g12r,G12r,7.2,7.2,7.2,0.07200000000000001,rsi_detail_structured,1000,138.88888888888889,,
+rsi-galaxy,Galaxy,110.0,110.0,110.0,1.1,rsi_detail_structured,1000,9.090909090909092,,
+crus-genesis,Genesis,85.0,85.0,85.0,0.85,rsi_detail_structured,1000,11.764705882352942,,
+anvl-gladiator,Gladiator,22.3,22.75,22.3,0.223,rsi_detail_structured,1000,44.84304932735426,"length,width,height",official_values_disagree
+aegs-gladius,Gladius,20.0,21.0,20.0,0.2,rsi_detail_structured,1000,50.0,"length,width",official_values_disagree
+aegs-gladius-pirate-edition,Gladius Pirate Edition,20.0,21.0,20.0,0.2,rsi_detail_structured,1000,50.0,"length,width",official_values_disagree
+aegs-gladius-valiant,Gladius Valiant,20.0,21.0,20.0,0.2,rsi_detail_structured,1000,50.0,"length,width,height",official_values_disagree
+espr-glaive,Glaive,31.0,33.0,31.0,0.31,rsi_detail_structured,1000,32.25806451612903,"length,width,height",official_values_disagree
+drak-golem,Golem,15.5,7.0,15.5,0.155,rsi_detail_structured,1000,64.51612903225806,"length,width,height",official_values_disagree
+drak-golem-ox,Golem OX,15.5,7.0,15.5,0.155,rsi_detail_structured,1000,64.51612903225806,"length,width",official_values_disagree
+mrai-guardian,Guardian,25.0,24.3,25.0,0.25,rsi_detail_structured,1000,40.0,"length,width,height",official_values_disagree
+mrai-guardian-mx,Guardian MX,25.0,26.0,25.0,0.25,rsi_detail_structured,1000,40.0,"length,width,height",official_values_disagree
+mrai-guardian-qi,Guardian QI,25.0,24.3,25.0,0.25,rsi_detail_structured,1000,40.0,"length,width,height",official_values_disagree
+aegs-hammerhead,Hammerhead,115.0,120.0,115.0,1.15,rsi_detail_structured,1000,8.695652173913043,"length,width",official_values_disagree
+anvl-hawk,Hawk,17.0,23.0,17.0,0.17,rsi_detail_structured,744,43.76470588235294,"length,width,height",official_values_disagree
+drak-herald,Herald,23.5,24.75,23.5,0.235,rsi_detail_structured,1000,42.5531914893617,length,official_values_disagree
+rsi-hermes,Hermes,65.0,58.0,65.0,0.65,rsi_detail_structured,1000,15.384615384615385,"length,width",official_values_disagree
+cnou-hoverquad,HoverQuad,4.5,1.45,4.5,0.045,rsi_detail_structured,1000,222.22222222222223,"length,width,height",official_values_disagree
+misc-hull-a,Hull A,24.0,30.0,24.0,0.24,rsi_detail_structured,1000,41.666666666666664,"length,width",official_values_disagree
+misc-hull-b,Hull B,46.0,71.0,46.0,0.46,rsi_detail_structured,1000,21.73913043478261,"length,width,height",official_values_disagree
+misc-hull-c,Hull C,125.0,91.17,125.0,1.25,rsi_detail_structured,1000,8.0,"length,width,height",official_values_disagree
+misc-hull-d,Hull D,209.0,209.0,209.0,2.09,rsi_detail_structured,1000,4.784688995215311,,
+misc-hull-e,Hull E,372.0,372.0,372.0,3.72,rsi_detail_structured,1000,2.6881720430107525,,
+anvl-hurricane,Hurricane,22.0,24.0,22.0,0.22,rsi_detail_structured,1000,45.45454545454545,"length,width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+aegs-idris-m,Idris-M,240.0,243.0,240.0,2.4,rsi_detail_structured,1000,4.166666666666667,"length,width,height","official_values_disagree,source_image_shared"
+aegs-idris-p,Idris-P,240.0,243.0,240.0,2.4,rsi_detail_structured,1000,4.166666666666667,"length,width,height","official_values_disagree,source_image_shared"
+crus-intrepid,Intrepid,23.2,23.07,23.2,0.23199999999999998,rsi_detail_structured,1000,43.10344827586207,height,official_values_disagree
+drak-ironclad,Ironclad,120.0,117.0,120.0,1.2,rsi_detail_structured,1000,8.333333333333334,"length,width,height",official_values_disagree
+drak-ironclad-assault,Ironclad Assault,120.0,117.0,120.0,1.2,rsi_detail_structured,1000,8.333333333333334,"length,width,height",official_values_disagree
+aegs-javelin,Javelin,475.0,475.0,475.0,4.75,rsi_detail_structured,1000,2.1052631578947367,,
+xnaa-khartu-al,Khartu-Al,30.5,32.0,30.5,0.305,rsi_detail_structured,573,18.78688524590164,"length,width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+drak-kraken,Kraken,270.0,270.0,270.0,2.7,rsi_detail_structured,1000,3.7037037037037037,,
+drak-kraken-privateer,Kraken Privateer,270.0,270.0,270.0,2.7,rsi_detail_structured,1000,3.7037037037037037,,
+krig-l-21-wolf,L-21 Wolf,21.5,21.5,21.5,0.215,rsi_detail_structured,1000,46.51162790697674,,
+krig-l-22-alpha-wolf,L-22 Alpha Wolf,21.5,21.5,21.5,0.215,rsi_detail_structured,1000,46.51162790697674,,
+anvl-legionnaire,Legionnaire,32.0,32.0,32.0,0.32,rsi_detail_structured,1000,31.25,,
+anvl-liberator,Liberator,119.0,119.0,119.0,1.19,rsi_detail_structured,1000,8.403361344537815,,
+rsi-lynx,Lynx,7.7,7.75,7.7,0.077,rsi_detail_structured,1000,129.87012987012986,height,official_values_disagree
+crus-m2-hercules,M2 Hercules,94.0,70.0,94.0,0.94,rsi_detail_structured,1000,10.638297872340425,"length,width",official_values_disagree
+orig-m50,M50,11.0,11.5,11.0,0.11,rsi_detail_structured,1000,90.9090909090909,"length,width,height",official_values_disagree
+orig-m80,M80,32.0,11.5,32.0,0.32,rsi_detail_structured,1000,31.25,"length,width,height",official_values_disagree
+rsi-mantis,Mantis,30.0,30.0,30.0,0.3,rsi_detail_structured,1000,33.333333333333336,height,official_values_disagree
+grin-mdc,MDC,7.0,7.0,7.0,0.07,rsi_detail_structured,1000,142.85714285714286,,
+banu-merchantman,Merchantman,160.0,160.0,160.0,1.6,rsi_detail_structured,1000,6.25,,
+crus-mercury-star-runner,Mercury Star Runner,56.0,51.0,56.0,0.56,rsi_detail_structured,1000,17.857142857142858,"length,width,height",official_values_disagree
+rsi-meteor,Meteor,30.0,30.0,30.0,0.3,rsi_detail_structured,1000,33.333333333333336,height,official_values_disagree
+argo-mole,MOLE,45.0,45.0,45.0,0.45,rsi_detail_structured,1000,22.22222222222222,width,official_values_disagree
+argo-moth,MOTH,45.0,,45.0,0.45,rsi_detail_structured,1000,22.22222222222222,,
+argo-mpuv-cargo,MPUV Cargo,9.0,10.5,9.0,0.09,rsi_detail_structured,1000,111.11111111111111,"length,width,height",official_values_disagree
+argo-mpuv-personnel,MPUV Personnel,9.0,10.5,9.0,0.09,rsi_detail_structured,1000,111.11111111111111,"length,width,height",official_values_disagree
+argo-mpuv-tractor,MPUV Tractor,9.0,10.5,9.0,0.09,rsi_detail_structured,1000,111.11111111111111,"length,width,height",official_values_disagree
+grin-mtc,MTC,7.0,6.0,7.0,0.07,rsi_detail_structured,1000,142.85714285714286,"length,width,height",official_values_disagree
+drak-mule,Mule,4.2,6.0,4.2,0.042,rsi_detail_structured,1000,238.09523809523807,"length,width,height",official_values_disagree
+cnou-mustang-alpha,Mustang Alpha,21.5,21.5,21.5,0.215,rsi_detail_structured,1000,46.51162790697674,,
+cnou-mustang-beta,Mustang Beta,21.5,21.5,21.5,0.215,rsi_detail_structured,1000,46.51162790697674,,
+cnou-mustang-delta,Mustang Delta,21.5,21.5,21.5,0.215,rsi_detail_structured,1000,46.51162790697674,,
+cnou-mustang-gamma,Mustang Gamma,21.5,21.5,21.5,0.215,rsi_detail_structured,1000,46.51162790697674,,
+cnou-mustang-omega,Mustang Omega,17.5,21.5,17.5,0.175,rsi_detail_structured,1000,57.142857142857146,"length,width,height",official_values_disagree
+aegs-nautilus,Nautilus,125.0,125.0,125.0,1.25,rsi_detail_structured,1000,8.0,,
+cnou-nomad,Nomad,26.5,19.0,26.5,0.265,rsi_detail_structured,1000,37.735849056603776,"length,width,height",official_values_disagree
+tmbl-nova,Nova,16.0,20.0,16.0,0.16,rsi_detail_structured,1000,62.5,"length,width,height",official_values_disagree
+xnaa-nox,Nox,5.5,1.45,5.5,0.055,rsi_detail_structured,1000,181.8181818181818,"length,width,height","official_values_disagree,source_image_shared"
+xnaa-nox-kue,Nox Kue,5.5,1.45,5.5,0.055,rsi_detail_structured,1000,181.8181818181818,"length,width,height","official_values_disagree,source_image_shared"
+anvl-odin,Odin,752.0,752.0,752.0,7.52,rsi_detail_structured,1000,1.3297872340425532,,
+misc-odyssey,Odyssey,140.0,140.0,140.0,1.4,rsi_detail_structured,1000,7.142857142857143,,pose_or_extent_ratio_mismatch
+rsi-orion,Orion,170.0,170.0,170.0,1.7,rsi_detail_structured,1000,5.882352941176471,,
+krig-p-52-merlin,P-52 Merlin,12.0,12.0,12.0,0.12,rsi_detail_structured,1000,83.33333333333333,height,official_values_disagree
+krig-p-72-archimedes,P-72 Archimedes,12.0,12.0,12.0,0.12,rsi_detail_structured,1000,83.33333333333333,height,official_values_disagree
+anvl-paladin,Paladin,53.0,53.0,53.0,0.53,rsi_detail_structured,1000,18.867924528301888,,
+rsi-perseus,Perseus,100.5,100.0,100.5,1.005,rsi_detail_structured,1000,9.950248756218905,"width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+cnou-pioneer,Pioneer,247.0,247.0,247.0,2.47,rsi_detail_structured,1000,4.048582995951417,,
+drak-pitbull,Pitbull,3.9,6.0,3.9,0.039,rsi_detail_structured,986,252.82051282051282,"length,width","official_values_disagree,pose_or_extent_ratio_mismatch"
+rsi-polaris,Polaris,166.0,181.0,166.0,1.66,rsi_detail_structured,1000,6.024096385542169,"length,width,height",official_values_disagree
+misc-prospector,Prospector,24.0,26.5,24.0,0.24,rsi_detail_structured,1000,41.666666666666664,"length,width,height",official_values_disagree
+espr-prowler,Prowler,34.0,34.0,34.0,0.34,rsi_detail_structured,1000,29.41176470588235,,
+espr-prowler-utility,Prowler Utility,34.0,34.0,34.0,0.34,rsi_detail_structured,1000,29.41176470588235,,
+grin-ptv,PTV,3.0,3.5,3.0,0.03,rsi_detail_structured,1000,333.3333333333333,"length,width,height",official_values_disagree
+mrai-pulse,Pulse,3.1,3.5,3.1,0.031,rsi_detail_structured,1000,322.5806451612903,"length,width,height",official_values_disagree
+mrai-pulse-lx,Pulse LX,3.1,3.5,3.1,0.031,rsi_detail_structured,1000,322.5806451612903,"length,width,height",official_values_disagree
+argo-raft,RAFT,39.5,39.5,39.5,0.395,rsi_detail_structured,1000,25.31645569620253,,
+gama-railen,Railen,65.0,52.0,65.0,0.65,rsi_detail_structured,971,14.938461538461539,"length,width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+tmbl-ranger-cv,Ranger CV,3.7,3.7,3.7,0.037000000000000005,rsi_detail_structured,1000,270.27027027027026,,pose_or_extent_ratio_mismatch
+tmbl-ranger-rc,Ranger RC,3.7,3.7,3.7,0.037000000000000005,rsi_detail_structured,1000,270.27027027027026,,pose_or_extent_ratio_mismatch
+tmbl-ranger-tr,Ranger TR,3.7,3.7,3.7,0.037000000000000005,rsi_detail_structured,1000,270.27027027027026,,pose_or_extent_ratio_mismatch
+mrai-razor,Razor,11.5,12.5,11.5,0.115,rsi_detail_structured,1000,86.95652173913044,"length,width,height",official_values_disagree
+mrai-razor-ex,Razor EX,11.5,12.5,11.5,0.115,rsi_detail_structured,1000,86.95652173913044,"length,width,height",official_values_disagree
+mrai-razor-lx,Razor LX,11.5,12.5,11.5,0.115,rsi_detail_structured,1000,86.95652173913044,"length,width,height",official_values_disagree
+aegs-reclaimer,Reclaimer,155.0,160.0,155.0,1.55,rsi_detail_structured,1000,6.451612903225806,"length,width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+aegs-redeemer,Redeemer,51.0,51.0,51.0,0.51,rsi_detail_structured,1000,19.607843137254903,width,official_values_disagree
+misc-reliant-kore,Reliant Kore,14.5,14.75,14.5,0.145,rsi_detail_structured,1000,68.96551724137932,"length,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+misc-reliant-mako,Reliant Mako,14.5,14.75,14.5,0.145,rsi_detail_structured,1000,68.96551724137932,"length,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+misc-reliant-sen,Reliant Sen,14.5,14.75,14.5,0.145,rsi_detail_structured,1000,68.96551724137932,"length,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+misc-reliant-tana,Reliant Tana,14.5,14.75,14.5,0.145,rsi_detail_structured,1000,68.96551724137932,"length,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+aegs-retaliator,Retaliator,71.0,70.5,71.0,0.71,rsi_detail_structured,1000,14.084507042253522,"width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+grin-roc,ROC,5.1,6.0,5.1,0.051,rsi_detail_structured,1000,196.07843137254903,"length,width,height",official_values_disagree
+grin-roc-ds,ROC-DS,6.6,6.6,6.6,0.066,rsi_detail_structured,1000,151.51515151515153,height,official_values_disagree
+krig-s-65-stingray,S-65 Stingray,24.5,20.447,24.5,0.245,rsi_detail_structured,912,37.224489795918366,"length,width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+aegs-sabre,Sabre,26.0,24.5,26.0,0.26,rsi_detail_structured,973,37.42307692307692,"length,width",official_values_disagree
+aegs-sabre-comet,Sabre Comet,24.0,24.5,24.0,0.24,rsi_detail_structured,974,40.583333333333336,"length,width",official_values_disagree
+aegs-sabre-firebird,Sabre Firebird,26.0,24.5,26.0,0.26,rsi_detail_structured,1000,38.46153846153846,"length,width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+aegs-sabre-peregrine,Sabre Peregrine,26.0,24.5,26.0,0.26,rsi_detail_structured,1000,38.46153846153846,"length,width",official_values_disagree
+aegs-sabre-raven,Sabre Raven,24.0,24.5,24.0,0.24,rsi_detail_structured,1000,41.666666666666664,"length,width",official_values_disagree
+aegs-sabre-raven-ex,Sabre Raven EX,26.0,24.5,26.0,0.26,rsi_detail_structured,1000,38.46153846153846,"length,width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+rsi-salvation,Salvation,14.5,14.5,14.5,0.145,rsi_detail_structured,1000,68.96551724137932,,
+xnaa-san-tok-yai,San'tok.yāi,24.0,24.0,24.0,0.24,rsi_detail_structured,920,38.333333333333336,height,official_values_disagree
+rsi-scorpius,Scorpius,24.0,32.0,24.0,0.24,rsi_detail_structured,701,29.208333333333332,"length,width",official_values_disagree
+rsi-scorpius-antares,Scorpius Antares,24.0,32.0,24.0,0.24,rsi_detail_structured,701,29.208333333333332,"length,width",official_values_disagree
+vncl-scythe,Scythe,31.0,33.0,31.0,0.31,rsi_detail_structured,1000,32.25806451612903,"length,width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+grey-shiv,Shiv,36.0,37.5,36.0,0.36,rsi_detail_structured,1000,27.77777777777778,"length,width,height",official_values_disagree
+rsi-skylark,Skylark,6.5,7.0,6.5,0.065,rsi_detail_structured,1000,153.84615384615384,"length,width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+anvl-spartan,Spartan,17.0,17.0,17.0,0.17,rsi_detail_structured,1000,58.8235294117647,,
+argo-srv,SRV,28.5,31.5,28.5,0.285,rsi_detail_structured,1000,35.08771929824562,"length,width,height",official_values_disagree
+misc-starfarer,Starfarer,101.0,102.0,101.0,1.01,rsi_detail_structured,1000,9.900990099009901,"width,height",official_values_disagree
+misc-starfarer-gemini,Starfarer Gemini,101.0,102.0,101.0,1.01,rsi_detail_structured,1000,9.900990099009901,"width,height",official_values_disagree
+misc-starlancer-max,Starlancer MAX,83.0,83.0,83.0,0.83,rsi_detail_structured,1000,12.048192771084338,,
+misc-starlancer-tac,Starlancer TAC,83.0,90.0,83.0,0.83,rsi_detail_structured,1000,12.048192771084338,"length,width,height",official_values_disagree
+misc-starlite,Starlite,32.0,32.0,32.0,0.32,rsi_detail_structured,1000,31.25,width,official_values_disagree
+espr-stinger,Stinger,32.0,36.0,32.0,0.32,rsi_detail_structured,1000,31.25,"length,width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+tmbl-storm,Storm,10.5,7.65,10.5,0.105,rsi_detail_structured,1000,95.23809523809524,"length,width,height",official_values_disagree
+tmbl-storm-aa,Storm AA,10.5,7.65,10.5,0.105,rsi_detail_structured,1000,95.23809523809524,"length,width,height",official_values_disagree
+grin-stv,STV,4.2,6.0,4.2,0.042,rsi_detail_structured,1000,238.09523809523807,"length,width,height",official_values_disagree
+gama-syulen,Syulen,25.0,25.0,25.0,0.25,rsi_detail_structured,543,21.72,,pose_or_extent_ratio_mismatch
+espr-talon,Talon,26.0,24.0,26.0,0.26,rsi_detail_structured,1000,38.46153846153846,"length,width,height",official_values_disagree
+espr-talon-shrike,Talon Shrike,26.0,24.0,26.0,0.26,rsi_detail_structured,1000,38.46153846153846,"length,width,height",official_values_disagree
+anvl-terrapin,Terrapin,19.5,20.0,19.5,0.195,rsi_detail_structured,1000,51.282051282051285,"length,width,height",official_values_disagree
+anvl-terrapin-medic,Terrapin Medic,19.5,20.0,19.5,0.195,rsi_detail_structured,1000,51.282051282051285,"length,width,height",official_values_disagree
+aegs-tiburon,Tiburon,121.0,121.0,121.0,1.21,rsi_detail_structured,1000,8.264462809917354,,
+gama-tyilui,Tyilui,69.0,52.0,69.0,0.69,rsi_detail_structured,1000,14.492753623188406,"length,width,height",official_values_disagree
+rsi-ursa,Ursa,7.6,6.0,7.6,0.076,rsi_detail_structured,1000,131.57894736842107,"length,width,height","official_values_disagree,source_image_shared"
+rsi-ursa-fortuna,Ursa Fortuna,7.6,6.0,7.6,0.076,rsi_detail_structured,1000,131.57894736842107,"length,width,height","official_values_disagree,source_image_shared"
+rsi-ursa-medivac,Ursa Medivac,8.0,6.0,8.0,0.08,rsi_detail_structured,1000,125.0,"length,width,height","official_values_disagree,source_image_shared"
+grin-utv,UTV,4.0,4.0,4.0,0.04,rsi_detail_structured,1000,250.0,height,official_values_disagree
+anvl-valkyrie,Valkyrie,46.5,48.0,46.5,0.465,rsi_detail_structured,1000,21.50537634408602,"length,width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+aegs-vanguard-harbinger,Vanguard Harbinger,38.5,48.0,38.5,0.385,rsi_detail_structured,1000,25.974025974025974,"length,height",official_values_disagree
+aegs-vanguard-hoplite,Vanguard Hoplite,38.5,48.0,38.5,0.385,rsi_detail_structured,1000,25.974025974025974,"length,height",official_values_disagree
+aegs-vanguard-sentinel,Vanguard Sentinel,38.5,48.0,38.5,0.385,rsi_detail_structured,1000,25.974025974025974,"length,height",official_values_disagree
+aegs-vanguard-warden,Vanguard Warden,38.5,48.0,38.5,0.385,rsi_detail_structured,983,25.532467532467532,"length,height",official_values_disagree
+aegs-vulcan,Vulcan,38.5,38.5,38.5,0.385,rsi_detail_structured,1000,25.974025974025974,,
+drak-vulture,Vulture,33.0,34.0,33.0,0.33,rsi_detail_structured,1000,30.303030303030305,length,official_values_disagree
+orig-x1,X1,5.5,1.55,5.5,0.055,rsi_detail_structured,1000,181.8181818181818,"length,width,height",official_values_disagree
+orig-x1-force,X1 Force,5.5,1.55,5.5,0.055,rsi_detail_structured,1000,181.8181818181818,"length,width,height",official_values_disagree
+orig-x1-velocity,X1 Velocity,5.5,1.55,5.5,0.055,rsi_detail_structured,1000,181.8181818181818,"length,width,height","official_values_disagree,pose_or_extent_ratio_mismatch"
+rsi-zeus-mk-ii-cl,Zeus Mk II CL,45.7,46.0,45.7,0.457,rsi_detail_structured,1000,21.88183807439825,"width,height","official_values_disagree,source_image_shared"
+rsi-zeus-mk-ii-es,Zeus Mk II ES,45.7,46.0,45.7,0.457,rsi_detail_structured,1000,21.88183807439825,"width,height","official_values_disagree,source_image_shared"
+rsi-zeus-mk-ii-mr,Zeus Mk II MR,45.7,45.7,45.7,0.457,rsi_detail_structured,1000,21.88183807439825,,
